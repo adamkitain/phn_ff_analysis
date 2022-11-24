@@ -1,0 +1,131 @@
+period,team,team_name,opponent,opponent_name,team_score,opponent_score,differential,win,loss,result,is_playoff,matchup_type,year
+1,Adam Kitain,Team TLV Sour D,Alex Han,Team Han,82.5,98.5,16.0,0,1,LOSS,False,NONE,2017
+1,Alex Han,Team Han,Adam Kitain,Team TLV Sour D,98.5,82.5,16.0,1,0,WIN,False,NONE,2017
+1,Adam Swietek,EZ Sweezy,Matthew Coonrod,Coon Daddy,86.0,45.0,41.0,1,0,WIN,False,NONE,2017
+1,Matthew Coonrod,Coon Daddy,Adam Swietek,EZ Sweezy,45.0,86.0,41.0,0,1,LOSS,False,NONE,2017
+1,Trond Liu,Han For  Sacko!,Jake Wetherall,Team Dildo Gaggins,111.0,82.5,28.5,1,0,WIN,False,NONE,2017
+1,Jake Wetherall,Team Dildo Gaggins,Trond Liu,Han For  Sacko!,82.5,111.0,28.5,0,1,LOSS,False,NONE,2017
+1,Scott Geary,Kip Schwartz,Bhavuk Tandon,New Delhi Sacko Threepeat,105.0,89.0,16.0,1,0,WIN,False,NONE,2017
+1,Bhavuk Tandon,New Delhi Sacko Threepeat,Scott Geary,Kip Schwartz,89.0,105.0,16.0,0,1,LOSS,False,NONE,2017
+1,Athan Cheokas,Artful Dodger,Zack Havanec,Geico Trap,69.0,96.5,27.5,0,1,LOSS,False,NONE,2017
+1,Zack Havanec,Geico Trap,Athan Cheokas,Artful Dodger,96.5,69.0,27.5,1,0,WIN,False,NONE,2017
+2,Adam Swietek,EZ Sweezy,Bhavuk Tandon,New Delhi Sacko Threepeat,125.5,113.0,12.5,1,0,WIN,False,NONE,2017
+2,Bhavuk Tandon,New Delhi Sacko Threepeat,Adam Swietek,EZ Sweezy,113.0,125.5,12.5,0,1,LOSS,False,NONE,2017
+2,Scott Geary,Kip Schwartz,Jake Wetherall,Team Dildo Gaggins,85.0,82.0,3.0,1,0,WIN,False,NONE,2017
+2,Jake Wetherall,Team Dildo Gaggins,Scott Geary,Kip Schwartz,82.0,85.0,3.0,0,1,LOSS,False,NONE,2017
+2,Athan Cheokas,Artful Dodger,Alex Han,Team Han,100.5,61.5,39.0,1,0,WIN,False,NONE,2017
+2,Alex Han,Team Han,Athan Cheokas,Artful Dodger,61.5,100.5,39.0,0,1,LOSS,False,NONE,2017
+2,Trond Liu,Han For  Sacko!,Zack Havanec,Geico Trap,116.0,124.5,8.5,0,1,LOSS,False,NONE,2017
+2,Zack Havanec,Geico Trap,Trond Liu,Han For  Sacko!,124.5,116.0,8.5,1,0,WIN,False,NONE,2017
+2,Adam Kitain,Team TLV Sour D,Matthew Coonrod,Coon Daddy,73.5,134.5,61.0,0,1,LOSS,False,NONE,2017
+2,Matthew Coonrod,Coon Daddy,Adam Kitain,Team TLV Sour D,134.5,73.5,61.0,1,0,WIN,False,NONE,2017
+3,Trond Liu,Han For  Sacko!,Scott Geary,Kip Schwartz,75.5,131.0,55.5,0,1,LOSS,False,NONE,2017
+3,Scott Geary,Kip Schwartz,Trond Liu,Han For  Sacko!,131.0,75.5,55.5,1,0,WIN,False,NONE,2017
+3,Jake Wetherall,Team Dildo Gaggins,Adam Swietek,EZ Sweezy,117.5,138.5,21.0,0,1,LOSS,False,NONE,2017
+3,Adam Swietek,EZ Sweezy,Jake Wetherall,Team Dildo Gaggins,138.5,117.5,21.0,1,0,WIN,False,NONE,2017
+3,Matthew Coonrod,Coon Daddy,Athan Cheokas,Artful Dodger,43.0,92.0,49.0,0,1,LOSS,False,NONE,2017
+3,Athan Cheokas,Artful Dodger,Matthew Coonrod,Coon Daddy,92.0,43.0,49.0,1,0,WIN,False,NONE,2017
+3,Alex Han,Team Han,Zack Havanec,Geico Trap,115.0,115.5,0.5,0,1,LOSS,False,NONE,2017
+3,Zack Havanec,Geico Trap,Alex Han,Team Han,115.5,115.0,0.5,1,0,WIN,False,NONE,2017
+3,Bhavuk Tandon,New Delhi Sacko Threepeat,Adam Kitain,Team TLV Sour D,113.0,125.0,12.0,0,1,LOSS,False,NONE,2017
+3,Adam Kitain,Team TLV Sour D,Bhavuk Tandon,New Delhi Sacko Threepeat,125.0,113.0,12.0,1,0,WIN,False,NONE,2017
+4,Adam Kitain,Team TLV Sour D,Athan Cheokas,Artful Dodger,95.5,117.0,21.5,0,1,LOSS,False,NONE,2017
+4,Athan Cheokas,Artful Dodger,Adam Kitain,Team TLV Sour D,117.0,95.5,21.5,1,0,WIN,False,NONE,2017
+4,Alex Han,Team Han,Scott Geary,Kip Schwartz,77.5,107.5,30.0,0,1,LOSS,False,NONE,2017
+4,Scott Geary,Kip Schwartz,Alex Han,Team Han,107.5,77.5,30.0,1,0,WIN,False,NONE,2017
+4,Trond Liu,Han For  Sacko!,Adam Swietek,EZ Sweezy,64.5,97.0,32.5,0,1,LOSS,False,NONE,2017
+4,Adam Swietek,EZ Sweezy,Trond Liu,Han For  Sacko!,97.0,64.5,32.5,1,0,WIN,False,NONE,2017
+4,Zack Havanec,Geico Trap,Matthew Coonrod,Coon Daddy,106.5,78.5,28.0,1,0,WIN,False,NONE,2017
+4,Matthew Coonrod,Coon Daddy,Zack Havanec,Geico Trap,78.5,106.5,28.0,0,1,LOSS,False,NONE,2017
+4,Bhavuk Tandon,New Delhi Sacko Threepeat,Jake Wetherall,Team Dildo Gaggins,122.5,121.0,1.5,1,0,WIN,False,NONE,2017
+4,Jake Wetherall,Team Dildo Gaggins,Bhavuk Tandon,New Delhi Sacko Threepeat,121.0,122.5,1.5,0,1,LOSS,False,NONE,2017
+5,Zack Havanec,Geico Trap,Adam Kitain,Team TLV Sour D,119.5,85.0,34.5,1,0,WIN,False,NONE,2017
+5,Adam Kitain,Team TLV Sour D,Zack Havanec,Geico Trap,85.0,119.5,34.5,0,1,LOSS,False,NONE,2017
+5,Adam Swietek,EZ Sweezy,Scott Geary,Kip Schwartz,59.0,111.0,52.0,0,1,LOSS,False,NONE,2017
+5,Scott Geary,Kip Schwartz,Adam Swietek,EZ Sweezy,111.0,59.0,52.0,1,0,WIN,False,NONE,2017
+5,Athan Cheokas,Artful Dodger,Jake Wetherall,Team Dildo Gaggins,115.5,67.0,48.5,1,0,WIN,False,NONE,2017
+5,Jake Wetherall,Team Dildo Gaggins,Athan Cheokas,Artful Dodger,67.0,115.5,48.5,0,1,LOSS,False,NONE,2017
+5,Alex Han,Team Han,Matthew Coonrod,Coon Daddy,108.0,84.5,23.5,1,0,WIN,False,NONE,2017
+5,Matthew Coonrod,Coon Daddy,Alex Han,Team Han,84.5,108.0,23.5,0,1,LOSS,False,NONE,2017
+5,Bhavuk Tandon,New Delhi Sacko Threepeat,Trond Liu,Han For  Sacko!,70.0,108.0,38.0,0,1,LOSS,False,NONE,2017
+5,Trond Liu,Han For  Sacko!,Bhavuk Tandon,New Delhi Sacko Threepeat,108.0,70.0,38.0,1,0,WIN,False,NONE,2017
+6,Zack Havanec,Geico Trap,Adam Swietek,EZ Sweezy,57.5,124.0,66.5,0,1,LOSS,False,NONE,2017
+6,Adam Swietek,EZ Sweezy,Zack Havanec,Geico Trap,124.0,57.5,66.5,1,0,WIN,False,NONE,2017
+6,Scott Geary,Kip Schwartz,Matthew Coonrod,Coon Daddy,80.5,130.0,49.5,0,1,LOSS,False,NONE,2017
+6,Matthew Coonrod,Coon Daddy,Scott Geary,Kip Schwartz,130.0,80.5,49.5,1,0,WIN,False,NONE,2017
+6,Athan Cheokas,Artful Dodger,Bhavuk Tandon,New Delhi Sacko Threepeat,104.5,80.5,24.0,1,0,WIN,False,NONE,2017
+6,Bhavuk Tandon,New Delhi Sacko Threepeat,Athan Cheokas,Artful Dodger,80.5,104.5,24.0,0,1,LOSS,False,NONE,2017
+6,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,81.5,112.5,31.0,0,1,LOSS,False,NONE,2017
+6,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,112.5,81.5,31.0,1,0,WIN,False,NONE,2017
+6,Trond Liu,Han For  Sacko!,Adam Kitain,Team TLV Sour D,139.0,84.0,55.0,1,0,WIN,False,NONE,2017
+6,Adam Kitain,Team TLV Sour D,Trond Liu,Han For  Sacko!,84.0,139.0,55.0,0,1,LOSS,False,NONE,2017
+7,Adam Swietek,EZ Sweezy,Alex Han,Team Han,97.0,106.5,9.5,0,1,LOSS,False,NONE,2017
+7,Alex Han,Team Han,Adam Swietek,EZ Sweezy,106.5,97.0,9.5,1,0,WIN,False,NONE,2017
+7,Scott Geary,Kip Schwartz,Zack Havanec,Geico Trap,139.0,81.0,58.0,1,0,WIN,False,NONE,2017
+7,Zack Havanec,Geico Trap,Scott Geary,Kip Schwartz,81.0,139.0,58.0,0,1,LOSS,False,NONE,2017
+7,Bhavuk Tandon,New Delhi Sacko Threepeat,Matthew Coonrod,Coon Daddy,92.5,89.5,3.0,1,0,WIN,False,NONE,2017
+7,Matthew Coonrod,Coon Daddy,Bhavuk Tandon,New Delhi Sacko Threepeat,89.5,92.5,3.0,0,1,LOSS,False,NONE,2017
+7,Jake Wetherall,Team Dildo Gaggins,Adam Kitain,Team TLV Sour D,110.5,46.0,64.5,1,0,WIN,False,NONE,2017
+7,Adam Kitain,Team TLV Sour D,Jake Wetherall,Team Dildo Gaggins,46.0,110.5,64.5,0,1,LOSS,False,NONE,2017
+7,Athan Cheokas,Artful Dodger,Trond Liu,Han For  Sacko!,117.5,63.5,54.0,1,0,WIN,False,NONE,2017
+7,Trond Liu,Han For  Sacko!,Athan Cheokas,Artful Dodger,63.5,117.5,54.0,0,1,LOSS,False,NONE,2017
+8,Adam Kitain,Team TLV Sour D,Adam Swietek,EZ Sweezy,89.0,76.0,13.0,1,0,WIN,False,NONE,2017
+8,Adam Swietek,EZ Sweezy,Adam Kitain,Team TLV Sour D,76.0,89.0,13.0,0,1,LOSS,False,NONE,2017
+8,Scott Geary,Kip Schwartz,Matthew Coonrod,Coon Daddy,114.0,85.5,28.5,1,0,WIN,False,NONE,2017
+8,Matthew Coonrod,Coon Daddy,Scott Geary,Kip Schwartz,85.5,114.0,28.5,0,1,LOSS,False,NONE,2017
+8,Jake Wetherall,Team Dildo Gaggins,Zack Havanec,Geico Trap,111.0,76.0,35.0,1,0,WIN,False,NONE,2017
+8,Zack Havanec,Geico Trap,Jake Wetherall,Team Dildo Gaggins,76.0,111.0,35.0,0,1,LOSS,False,NONE,2017
+8,Athan Cheokas,Artful Dodger,Bhavuk Tandon,New Delhi Sacko Threepeat,106.0,81.0,25.0,1,0,WIN,False,NONE,2017
+8,Bhavuk Tandon,New Delhi Sacko Threepeat,Athan Cheokas,Artful Dodger,81.0,106.0,25.0,0,1,LOSS,False,NONE,2017
+8,Trond Liu,Han For  Sacko!,Alex Han,Team Han,122.5,111.5,11.0,1,0,WIN,False,NONE,2017
+8,Alex Han,Team Han,Trond Liu,Han For  Sacko!,111.5,122.5,11.0,0,1,LOSS,False,NONE,2017
+9,Zack Havanec,Geico Trap,Adam Swietek,EZ Sweezy,128.0,63.5,64.5,1,0,WIN,False,NONE,2017
+9,Adam Swietek,EZ Sweezy,Zack Havanec,Geico Trap,63.5,128.0,64.5,0,1,LOSS,False,NONE,2017
+9,Trond Liu,Han For  Sacko!,Adam Kitain,Team TLV Sour D,78.5,125.5,47.0,0,1,LOSS,False,NONE,2017
+9,Adam Kitain,Team TLV Sour D,Trond Liu,Han For  Sacko!,125.5,78.5,47.0,1,0,WIN,False,NONE,2017
+9,Alex Han,Team Han,Bhavuk Tandon,New Delhi Sacko Threepeat,101.5,81.0,20.5,1,0,WIN,False,NONE,2017
+9,Bhavuk Tandon,New Delhi Sacko Threepeat,Alex Han,Team Han,81.0,101.5,20.5,0,1,LOSS,False,NONE,2017
+9,Jake Wetherall,Team Dildo Gaggins,Matthew Coonrod,Coon Daddy,93.0,83.5,9.5,1,0,WIN,False,NONE,2017
+9,Matthew Coonrod,Coon Daddy,Jake Wetherall,Team Dildo Gaggins,83.5,93.0,9.5,0,1,LOSS,False,NONE,2017
+9,Scott Geary,Kip Schwartz,Athan Cheokas,Artful Dodger,87.0,83.0,4.0,1,0,WIN,False,NONE,2017
+9,Athan Cheokas,Artful Dodger,Scott Geary,Kip Schwartz,83.0,87.0,4.0,0,1,LOSS,False,NONE,2017
+10,Adam Swietek,EZ Sweezy,Athan Cheokas,Artful Dodger,93.5,99.5,6.0,0,1,LOSS,False,NONE,2017
+10,Athan Cheokas,Artful Dodger,Adam Swietek,EZ Sweezy,99.5,93.5,6.0,1,0,WIN,False,NONE,2017
+10,Matthew Coonrod,Coon Daddy,Trond Liu,Han For  Sacko!,109.5,107.0,2.5,1,0,WIN,False,NONE,2017
+10,Trond Liu,Han For  Sacko!,Matthew Coonrod,Coon Daddy,107.0,109.5,2.5,0,1,LOSS,False,NONE,2017
+10,Zack Havanec,Geico Trap,Bhavuk Tandon,New Delhi Sacko Threepeat,94.5,59.0,35.5,1,0,WIN,False,NONE,2017
+10,Bhavuk Tandon,New Delhi Sacko Threepeat,Zack Havanec,Geico Trap,59.0,94.5,35.5,0,1,LOSS,False,NONE,2017
+10,Adam Kitain,Team TLV Sour D,Scott Geary,Kip Schwartz,83.0,89.5,6.5,0,1,LOSS,False,NONE,2017
+10,Scott Geary,Kip Schwartz,Adam Kitain,Team TLV Sour D,89.5,83.0,6.5,1,0,WIN,False,NONE,2017
+10,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,112.0,106.0,6.0,1,0,WIN,False,NONE,2017
+10,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,106.0,112.0,6.0,0,1,LOSS,False,NONE,2017
+11,Scott Geary,Kip Schwartz,,,155.0,0.0,155.0,0,0,NO CONTEST,True,WINNERS_BRACKET,2017
+11,Alex Han,Team Han,Athan Cheokas,Artful Dodger,240.0,221.5,18.5,1,0,WIN,True,WINNERS_BRACKET,2017
+11,Athan Cheokas,Artful Dodger,Alex Han,Team Han,221.5,240.0,18.5,0,1,LOSS,True,WINNERS_BRACKET,2017
+11,Adam Kitain,Team TLV Sour D,Adam Swietek,EZ Sweezy,183.0,274.0,91.0,0,1,LOSS,True,WINNERS_BRACKET,2017
+11,Adam Swietek,EZ Sweezy,Adam Kitain,Team TLV Sour D,274.0,183.0,91.0,1,0,WIN,True,WINNERS_BRACKET,2017
+11,Zack Havanec,Geico Trap,,,185.5,0.0,185.5,0,0,NO CONTEST,True,WINNERS_BRACKET,2017
+11,Jake Wetherall,Team Dildo Gaggins,Trond Liu,Han For  Sacko!,262.5,233.0,29.5,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2017
+11,Trond Liu,Han For  Sacko!,Jake Wetherall,Team Dildo Gaggins,233.0,262.5,29.5,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2017
+11,Matthew Coonrod,Coon Daddy,Bhavuk Tandon,New Delhi Sacko Threepeat,128.0,261.5,133.5,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2017
+11,Bhavuk Tandon,New Delhi Sacko Threepeat,Matthew Coonrod,Coon Daddy,261.5,128.0,133.5,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2017
+12,Scott Geary,Kip Schwartz,Alex Han,Team Han,198.5,213.0,14.5,0,1,LOSS,True,WINNERS_BRACKET,2017
+12,Alex Han,Team Han,Scott Geary,Kip Schwartz,213.0,198.5,14.5,1,0,WIN,True,WINNERS_BRACKET,2017
+12,Zack Havanec,Geico Trap,Adam Swietek,EZ Sweezy,169.5,251.5,82.0,0,1,LOSS,True,WINNERS_BRACKET,2017
+12,Adam Swietek,EZ Sweezy,Zack Havanec,Geico Trap,251.5,169.5,82.0,1,0,WIN,True,WINNERS_BRACKET,2017
+12,Athan Cheokas,Artful Dodger,Adam Kitain,Team TLV Sour D,177.5,193.5,16.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2017
+12,Adam Kitain,Team TLV Sour D,Athan Cheokas,Artful Dodger,193.5,177.5,16.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2017
+12,Jake Wetherall,Team Dildo Gaggins,Bhavuk Tandon,New Delhi Sacko Threepeat,174.0,238.5,64.5,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2017
+12,Bhavuk Tandon,New Delhi Sacko Threepeat,Jake Wetherall,Team Dildo Gaggins,238.5,174.0,64.5,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2017
+12,Trond Liu,Han For  Sacko!,Matthew Coonrod,Coon Daddy,211.5,197.0,14.5,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2017
+12,Matthew Coonrod,Coon Daddy,Trond Liu,Han For  Sacko!,197.0,211.5,14.5,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2017
+13,Alex Han,Team Han,Adam Swietek,EZ Sweezy,178.0,181.0,3.0,0,1,LOSS,True,WINNERS_BRACKET,2017
+13,Adam Swietek,EZ Sweezy,Alex Han,Team Han,181.0,178.0,3.0,1,0,WIN,True,WINNERS_BRACKET,2017
+13,Scott Geary,Kip Schwartz,Zack Havanec,Geico Trap,226.5,172.0,54.5,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2017
+13,Zack Havanec,Geico Trap,Scott Geary,Kip Schwartz,172.0,226.5,54.5,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2017
+13,Athan Cheokas,Artful Dodger,Adam Kitain,Team TLV Sour D,148.5,139.5,9.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2017
+13,Adam Kitain,Team TLV Sour D,Athan Cheokas,Artful Dodger,139.5,148.5,9.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2017
+13,Trond Liu,Han For  Sacko!,Bhavuk Tandon,New Delhi Sacko Threepeat,235.0,211.5,23.5,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2017
+13,Bhavuk Tandon,New Delhi Sacko Threepeat,Trond Liu,Han For  Sacko!,211.5,235.0,23.5,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2017
+13,Jake Wetherall,Team Dildo Gaggins,Matthew Coonrod,Coon Daddy,178.5,217.5,39.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2017
+13,Matthew Coonrod,Coon Daddy,Jake Wetherall,Team Dildo Gaggins,217.5,178.5,39.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2017

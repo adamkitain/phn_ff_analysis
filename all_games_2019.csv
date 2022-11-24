@@ -1,0 +1,131 @@
+period,team,team_name,opponent,opponent_name,team_score,opponent_score,differential,win,loss,result,is_playoff,matchup_type,year
+1,Adam Kitain,Team TLV Kush,Alex Han,Team Han,109.0,86.5,22.5,1,0,WIN,False,NONE,2019
+1,Alex Han,Team Han,Adam Kitain,Team TLV Kush,86.5,109.0,22.5,0,1,LOSS,False,NONE,2019
+1,Adam Swietek,EZ Sweezy,Matthew Coonrod,Coon Daddy,136.0,112.0,24.0,1,0,WIN,False,NONE,2019
+1,Matthew Coonrod,Coon Daddy,Adam Swietek,EZ Sweezy,112.0,136.0,24.0,0,1,LOSS,False,NONE,2019
+1,Trond Liu,Check His Papers,Jake Wetherall,Team Dildo Gaggins,91.0,122.5,31.5,0,1,LOSS,False,NONE,2019
+1,Jake Wetherall,Team Dildo Gaggins,Trond Liu,Check His Papers,122.5,91.0,31.5,1,0,WIN,False,NONE,2019
+1,Scott Geary,Kip Schwartz,Bhavuk Tandon,New Delhi Sacko Threepeat,139.0,118.0,21.0,1,0,WIN,False,NONE,2019
+1,Bhavuk Tandon,New Delhi Sacko Threepeat,Scott Geary,Kip Schwartz,118.0,139.0,21.0,0,1,LOSS,False,NONE,2019
+1,Athan Cheokas,Artful Dodger,Zack Havanec,Geico Trap,108.0,129.0,21.0,0,1,LOSS,False,NONE,2019
+1,Zack Havanec,Geico Trap,Athan Cheokas,Artful Dodger,129.0,108.0,21.0,1,0,WIN,False,NONE,2019
+2,Adam Swietek,EZ Sweezy,Bhavuk Tandon,New Delhi Sacko Threepeat,103.0,129.5,26.5,0,1,LOSS,False,NONE,2019
+2,Bhavuk Tandon,New Delhi Sacko Threepeat,Adam Swietek,EZ Sweezy,129.5,103.0,26.5,1,0,WIN,False,NONE,2019
+2,Scott Geary,Kip Schwartz,Jake Wetherall,Team Dildo Gaggins,109.0,88.0,21.0,1,0,WIN,False,NONE,2019
+2,Jake Wetherall,Team Dildo Gaggins,Scott Geary,Kip Schwartz,88.0,109.0,21.0,0,1,LOSS,False,NONE,2019
+2,Athan Cheokas,Artful Dodger,Alex Han,Team Han,114.5,121.5,7.0,0,1,LOSS,False,NONE,2019
+2,Alex Han,Team Han,Athan Cheokas,Artful Dodger,121.5,114.5,7.0,1,0,WIN,False,NONE,2019
+2,Trond Liu,Check His Papers,Zack Havanec,Geico Trap,114.5,81.5,33.0,1,0,WIN,False,NONE,2019
+2,Zack Havanec,Geico Trap,Trond Liu,Check His Papers,81.5,114.5,33.0,0,1,LOSS,False,NONE,2019
+2,Adam Kitain,Team TLV Kush,Matthew Coonrod,Coon Daddy,83.5,86.0,2.5,0,1,LOSS,False,NONE,2019
+2,Matthew Coonrod,Coon Daddy,Adam Kitain,Team TLV Kush,86.0,83.5,2.5,1,0,WIN,False,NONE,2019
+3,Trond Liu,Check His Papers,Scott Geary,Kip Schwartz,87.5,126.5,39.0,0,1,LOSS,False,NONE,2019
+3,Scott Geary,Kip Schwartz,Trond Liu,Check His Papers,126.5,87.5,39.0,1,0,WIN,False,NONE,2019
+3,Jake Wetherall,Team Dildo Gaggins,Adam Swietek,EZ Sweezy,104.0,110.5,6.5,0,1,LOSS,False,NONE,2019
+3,Adam Swietek,EZ Sweezy,Jake Wetherall,Team Dildo Gaggins,110.5,104.0,6.5,1,0,WIN,False,NONE,2019
+3,Matthew Coonrod,Coon Daddy,Athan Cheokas,Artful Dodger,89.0,87.5,1.5,1,0,WIN,False,NONE,2019
+3,Athan Cheokas,Artful Dodger,Matthew Coonrod,Coon Daddy,87.5,89.0,1.5,0,1,LOSS,False,NONE,2019
+3,Alex Han,Team Han,Zack Havanec,Geico Trap,140.5,131.0,9.5,1,0,WIN,False,NONE,2019
+3,Zack Havanec,Geico Trap,Alex Han,Team Han,131.0,140.5,9.5,0,1,LOSS,False,NONE,2019
+3,Bhavuk Tandon,New Delhi Sacko Threepeat,Adam Kitain,Team TLV Kush,131.0,113.0,18.0,1,0,WIN,False,NONE,2019
+3,Adam Kitain,Team TLV Kush,Bhavuk Tandon,New Delhi Sacko Threepeat,113.0,131.0,18.0,0,1,LOSS,False,NONE,2019
+4,Adam Kitain,Team TLV Kush,Athan Cheokas,Artful Dodger,121.0,144.0,23.0,0,1,LOSS,False,NONE,2019
+4,Athan Cheokas,Artful Dodger,Adam Kitain,Team TLV Kush,144.0,121.0,23.0,1,0,WIN,False,NONE,2019
+4,Alex Han,Team Han,Scott Geary,Kip Schwartz,117.5,106.5,11.0,1,0,WIN,False,NONE,2019
+4,Scott Geary,Kip Schwartz,Alex Han,Team Han,106.5,117.5,11.0,0,1,LOSS,False,NONE,2019
+4,Trond Liu,Check His Papers,Adam Swietek,EZ Sweezy,78.5,102.0,23.5,0,1,LOSS,False,NONE,2019
+4,Adam Swietek,EZ Sweezy,Trond Liu,Check His Papers,102.0,78.5,23.5,1,0,WIN,False,NONE,2019
+4,Zack Havanec,Geico Trap,Matthew Coonrod,Coon Daddy,97.5,97.0,0.5,1,0,WIN,False,NONE,2019
+4,Matthew Coonrod,Coon Daddy,Zack Havanec,Geico Trap,97.0,97.5,0.5,0,1,LOSS,False,NONE,2019
+4,Bhavuk Tandon,New Delhi Sacko Threepeat,Jake Wetherall,Team Dildo Gaggins,77.5,68.0,9.5,1,0,WIN,False,NONE,2019
+4,Jake Wetherall,Team Dildo Gaggins,Bhavuk Tandon,New Delhi Sacko Threepeat,68.0,77.5,9.5,0,1,LOSS,False,NONE,2019
+5,Zack Havanec,Geico Trap,Adam Kitain,Team TLV Kush,101.5,165.0,63.5,0,1,LOSS,False,NONE,2019
+5,Adam Kitain,Team TLV Kush,Zack Havanec,Geico Trap,165.0,101.5,63.5,1,0,WIN,False,NONE,2019
+5,Adam Swietek,EZ Sweezy,Scott Geary,Kip Schwartz,96.5,98.0,1.5,0,1,LOSS,False,NONE,2019
+5,Scott Geary,Kip Schwartz,Adam Swietek,EZ Sweezy,98.0,96.5,1.5,1,0,WIN,False,NONE,2019
+5,Athan Cheokas,Artful Dodger,Jake Wetherall,Team Dildo Gaggins,118.5,115.5,3.0,1,0,WIN,False,NONE,2019
+5,Jake Wetherall,Team Dildo Gaggins,Athan Cheokas,Artful Dodger,115.5,118.5,3.0,0,1,LOSS,False,NONE,2019
+5,Alex Han,Team Han,Matthew Coonrod,Coon Daddy,80.0,133.5,53.5,0,1,LOSS,False,NONE,2019
+5,Matthew Coonrod,Coon Daddy,Alex Han,Team Han,133.5,80.0,53.5,1,0,WIN,False,NONE,2019
+5,Bhavuk Tandon,New Delhi Sacko Threepeat,Trond Liu,Check His Papers,111.5,157.5,46.0,0,1,LOSS,False,NONE,2019
+5,Trond Liu,Check His Papers,Bhavuk Tandon,New Delhi Sacko Threepeat,157.5,111.5,46.0,1,0,WIN,False,NONE,2019
+6,Zack Havanec,Geico Trap,Adam Swietek,EZ Sweezy,115.5,147.5,32.0,0,1,LOSS,False,NONE,2019
+6,Adam Swietek,EZ Sweezy,Zack Havanec,Geico Trap,147.5,115.5,32.0,1,0,WIN,False,NONE,2019
+6,Scott Geary,Kip Schwartz,Matthew Coonrod,Coon Daddy,108.0,89.5,18.5,1,0,WIN,False,NONE,2019
+6,Matthew Coonrod,Coon Daddy,Scott Geary,Kip Schwartz,89.5,108.0,18.5,0,1,LOSS,False,NONE,2019
+6,Athan Cheokas,Artful Dodger,Bhavuk Tandon,New Delhi Sacko Threepeat,106.5,73.0,33.5,1,0,WIN,False,NONE,2019
+6,Bhavuk Tandon,New Delhi Sacko Threepeat,Athan Cheokas,Artful Dodger,73.0,106.5,33.5,0,1,LOSS,False,NONE,2019
+6,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,133.5,66.5,67.0,1,0,WIN,False,NONE,2019
+6,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,66.5,133.5,67.0,0,1,LOSS,False,NONE,2019
+6,Trond Liu,Check His Papers,Adam Kitain,Team TLV Kush,104.5,109.0,4.5,0,1,LOSS,False,NONE,2019
+6,Adam Kitain,Team TLV Kush,Trond Liu,Check His Papers,109.0,104.5,4.5,1,0,WIN,False,NONE,2019
+7,Adam Swietek,EZ Sweezy,Alex Han,Team Han,86.0,88.5,2.5,0,1,LOSS,False,NONE,2019
+7,Alex Han,Team Han,Adam Swietek,EZ Sweezy,88.5,86.0,2.5,1,0,WIN,False,NONE,2019
+7,Scott Geary,Kip Schwartz,Zack Havanec,Geico Trap,62.0,84.5,22.5,0,1,LOSS,False,NONE,2019
+7,Zack Havanec,Geico Trap,Scott Geary,Kip Schwartz,84.5,62.0,22.5,1,0,WIN,False,NONE,2019
+7,Bhavuk Tandon,New Delhi Sacko Threepeat,Matthew Coonrod,Coon Daddy,158.0,78.5,79.5,1,0,WIN,False,NONE,2019
+7,Matthew Coonrod,Coon Daddy,Bhavuk Tandon,New Delhi Sacko Threepeat,78.5,158.0,79.5,0,1,LOSS,False,NONE,2019
+7,Jake Wetherall,Team Dildo Gaggins,Adam Kitain,Team TLV Kush,86.0,76.0,10.0,1,0,WIN,False,NONE,2019
+7,Adam Kitain,Team TLV Kush,Jake Wetherall,Team Dildo Gaggins,76.0,86.0,10.0,0,1,LOSS,False,NONE,2019
+7,Athan Cheokas,Artful Dodger,Trond Liu,Check His Papers,93.0,70.5,22.5,1,0,WIN,False,NONE,2019
+7,Trond Liu,Check His Papers,Athan Cheokas,Artful Dodger,70.5,93.0,22.5,0,1,LOSS,False,NONE,2019
+8,Adam Kitain,Team TLV Kush,Adam Swietek,EZ Sweezy,144.0,115.5,28.5,1,0,WIN,False,NONE,2019
+8,Adam Swietek,EZ Sweezy,Adam Kitain,Team TLV Kush,115.5,144.0,28.5,0,1,LOSS,False,NONE,2019
+8,Scott Geary,Kip Schwartz,Matthew Coonrod,Coon Daddy,146.5,104.0,42.5,1,0,WIN,False,NONE,2019
+8,Matthew Coonrod,Coon Daddy,Scott Geary,Kip Schwartz,104.0,146.5,42.5,0,1,LOSS,False,NONE,2019
+8,Jake Wetherall,Team Dildo Gaggins,Zack Havanec,Geico Trap,78.5,81.0,2.5,0,1,LOSS,False,NONE,2019
+8,Zack Havanec,Geico Trap,Jake Wetherall,Team Dildo Gaggins,81.0,78.5,2.5,1,0,WIN,False,NONE,2019
+8,Athan Cheokas,Artful Dodger,Bhavuk Tandon,New Delhi Sacko Threepeat,139.5,88.5,51.0,1,0,WIN,False,NONE,2019
+8,Bhavuk Tandon,New Delhi Sacko Threepeat,Athan Cheokas,Artful Dodger,88.5,139.5,51.0,0,1,LOSS,False,NONE,2019
+8,Trond Liu,Check His Papers,Alex Han,Team Han,100.0,119.5,19.5,0,1,LOSS,False,NONE,2019
+8,Alex Han,Team Han,Trond Liu,Check His Papers,119.5,100.0,19.5,1,0,WIN,False,NONE,2019
+9,Zack Havanec,Geico Trap,Adam Swietek,EZ Sweezy,120.0,99.5,20.5,1,0,WIN,False,NONE,2019
+9,Adam Swietek,EZ Sweezy,Zack Havanec,Geico Trap,99.5,120.0,20.5,0,1,LOSS,False,NONE,2019
+9,Trond Liu,Check His Papers,Adam Kitain,Team TLV Kush,108.0,100.0,8.0,1,0,WIN,False,NONE,2019
+9,Adam Kitain,Team TLV Kush,Trond Liu,Check His Papers,100.0,108.0,8.0,0,1,LOSS,False,NONE,2019
+9,Alex Han,Team Han,Bhavuk Tandon,New Delhi Sacko Threepeat,95.0,94.0,1.0,1,0,WIN,False,NONE,2019
+9,Bhavuk Tandon,New Delhi Sacko Threepeat,Alex Han,Team Han,94.0,95.0,1.0,0,1,LOSS,False,NONE,2019
+9,Jake Wetherall,Team Dildo Gaggins,Matthew Coonrod,Coon Daddy,85.5,106.5,21.0,0,1,LOSS,False,NONE,2019
+9,Matthew Coonrod,Coon Daddy,Jake Wetherall,Team Dildo Gaggins,106.5,85.5,21.0,1,0,WIN,False,NONE,2019
+9,Scott Geary,Kip Schwartz,Athan Cheokas,Artful Dodger,72.5,115.5,43.0,0,1,LOSS,False,NONE,2019
+9,Athan Cheokas,Artful Dodger,Scott Geary,Kip Schwartz,115.5,72.5,43.0,1,0,WIN,False,NONE,2019
+10,Adam Swietek,EZ Sweezy,Athan Cheokas,Artful Dodger,112.5,116.5,4.0,0,1,LOSS,False,NONE,2019
+10,Athan Cheokas,Artful Dodger,Adam Swietek,EZ Sweezy,116.5,112.5,4.0,1,0,WIN,False,NONE,2019
+10,Matthew Coonrod,Coon Daddy,Trond Liu,Check His Papers,116.0,106.0,10.0,1,0,WIN,False,NONE,2019
+10,Trond Liu,Check His Papers,Matthew Coonrod,Coon Daddy,106.0,116.0,10.0,0,1,LOSS,False,NONE,2019
+10,Zack Havanec,Geico Trap,Bhavuk Tandon,New Delhi Sacko Threepeat,128.5,110.5,18.0,1,0,WIN,False,NONE,2019
+10,Bhavuk Tandon,New Delhi Sacko Threepeat,Zack Havanec,Geico Trap,110.5,128.5,18.0,0,1,LOSS,False,NONE,2019
+10,Adam Kitain,Team TLV Kush,Scott Geary,Kip Schwartz,101.0,89.0,12.0,1,0,WIN,False,NONE,2019
+10,Scott Geary,Kip Schwartz,Adam Kitain,Team TLV Kush,89.0,101.0,12.0,0,1,LOSS,False,NONE,2019
+10,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,114.5,88.0,26.5,1,0,WIN,False,NONE,2019
+10,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,88.0,114.5,26.5,0,1,LOSS,False,NONE,2019
+11,Athan Cheokas,Artful Dodger,,,170.0,0.0,170.0,0,0,NO CONTEST,True,WINNERS_BRACKET,2019
+11,Scott Geary,Kip Schwartz,Alex Han,Team Han,208.5,143.0,65.5,1,0,WIN,True,WINNERS_BRACKET,2019
+11,Alex Han,Team Han,Scott Geary,Kip Schwartz,143.0,208.5,65.5,0,1,LOSS,True,WINNERS_BRACKET,2019
+11,Adam Kitain,Team TLV Kush,Matthew Coonrod,Coon Daddy,208.0,235.5,27.5,0,1,LOSS,True,WINNERS_BRACKET,2019
+11,Matthew Coonrod,Coon Daddy,Adam Kitain,Team TLV Kush,235.5,208.0,27.5,1,0,WIN,True,WINNERS_BRACKET,2019
+11,Zack Havanec,Geico Trap,,,176.0,0.0,176.0,0,0,NO CONTEST,True,WINNERS_BRACKET,2019
+11,Adam Swietek,EZ Sweezy,Bhavuk Tandon,New Delhi Sacko Threepeat,203.0,192.0,11.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2019
+11,Bhavuk Tandon,New Delhi Sacko Threepeat,Adam Swietek,EZ Sweezy,192.0,203.0,11.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2019
+11,Trond Liu,Check His Papers,Jake Wetherall,Team Dildo Gaggins,139.5,175.0,35.5,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2019
+11,Jake Wetherall,Team Dildo Gaggins,Trond Liu,Check His Papers,175.0,139.5,35.5,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2019
+12,Athan Cheokas,Artful Dodger,Scott Geary,Kip Schwartz,200.0,218.0,18.0,0,1,LOSS,True,WINNERS_BRACKET,2019
+12,Scott Geary,Kip Schwartz,Athan Cheokas,Artful Dodger,218.0,200.0,18.0,1,0,WIN,True,WINNERS_BRACKET,2019
+12,Zack Havanec,Geico Trap,Matthew Coonrod,Coon Daddy,156.0,233.5,77.5,0,1,LOSS,True,WINNERS_BRACKET,2019
+12,Matthew Coonrod,Coon Daddy,Zack Havanec,Geico Trap,233.5,156.0,77.5,1,0,WIN,True,WINNERS_BRACKET,2019
+12,Alex Han,Team Han,Adam Kitain,Team TLV Kush,147.5,205.0,57.5,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2019
+12,Adam Kitain,Team TLV Kush,Alex Han,Team Han,205.0,147.5,57.5,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2019
+12,Adam Swietek,EZ Sweezy,Jake Wetherall,Team Dildo Gaggins,106.5,217.5,111.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2019
+12,Jake Wetherall,Team Dildo Gaggins,Adam Swietek,EZ Sweezy,217.5,106.5,111.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2019
+12,Bhavuk Tandon,New Delhi Sacko Threepeat,Trond Liu,Check His Papers,191.0,196.5,5.5,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2019
+12,Trond Liu,Check His Papers,Bhavuk Tandon,New Delhi Sacko Threepeat,196.5,191.0,5.5,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2019
+13,Scott Geary,Kip Schwartz,Matthew Coonrod,Coon Daddy,233.0,200.5,32.5,1,0,WIN,True,WINNERS_BRACKET,2019
+13,Matthew Coonrod,Coon Daddy,Scott Geary,Kip Schwartz,200.5,233.0,32.5,0,1,LOSS,True,WINNERS_BRACKET,2019
+13,Athan Cheokas,Artful Dodger,Zack Havanec,Geico Trap,271.0,171.0,100.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2019
+13,Zack Havanec,Geico Trap,Athan Cheokas,Artful Dodger,171.0,271.0,100.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2019
+13,Alex Han,Team Han,Adam Kitain,Team TLV Kush,175.5,215.0,39.5,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2019
+13,Adam Kitain,Team TLV Kush,Alex Han,Team Han,215.0,175.5,39.5,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2019
+13,Trond Liu,Check His Papers,Jake Wetherall,Team Dildo Gaggins,212.0,160.5,51.5,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2019
+13,Jake Wetherall,Team Dildo Gaggins,Trond Liu,Check His Papers,160.5,212.0,51.5,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2019
+13,Adam Swietek,EZ Sweezy,Bhavuk Tandon,New Delhi Sacko Threepeat,161.5,201.5,40.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2019
+13,Bhavuk Tandon,New Delhi Sacko Threepeat,Adam Swietek,EZ Sweezy,201.5,161.5,40.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2019

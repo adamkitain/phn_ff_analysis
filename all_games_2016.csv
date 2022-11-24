@@ -1,0 +1,131 @@
+period,team,team_name,opponent,opponent_name,team_score,opponent_score,differential,win,loss,result,is_playoff,matchup_type,year
+1,Adam Kitain,Team NYC Sour D,Alex Han,Team Han,85.0,109.5,24.5,0,1,LOSS,False,NONE,2016
+1,Alex Han,Team Han,Adam Kitain,Team NYC Sour D,109.5,85.0,24.5,1,0,WIN,False,NONE,2016
+1,Adam Swietek,EZ Sweezy,Matthew Coonrod,Dez Nutz,124.0,103.0,21.0,1,0,WIN,False,NONE,2016
+1,Matthew Coonrod,Dez Nutz,Adam Swietek,EZ Sweezy,103.0,124.0,21.0,0,1,LOSS,False,NONE,2016
+1,Trond Liu,As opposed to  no sacko?!,Jake Wetherall,Team Dildo Gaggins,94.5,107.0,12.5,0,1,LOSS,False,NONE,2016
+1,Jake Wetherall,Team Dildo Gaggins,Trond Liu,As opposed to  no sacko?!,107.0,94.5,12.5,1,0,WIN,False,NONE,2016
+1,Scott Geary,Monday Night Drinking Club,Bhavuk Tandon,New Delhi Sacko Threepeat,136.5,133.5,3.0,1,0,WIN,False,NONE,2016
+1,Bhavuk Tandon,New Delhi Sacko Threepeat,Scott Geary,Monday Night Drinking Club,133.5,136.5,3.0,0,1,LOSS,False,NONE,2016
+1,Athan Cheokas,Artful Dodger,Zack Havanec,Geico Trap,99.0,129.5,30.5,0,1,LOSS,False,NONE,2016
+1,Zack Havanec,Geico Trap,Athan Cheokas,Artful Dodger,129.5,99.0,30.5,1,0,WIN,False,NONE,2016
+2,Adam Swietek,EZ Sweezy,Bhavuk Tandon,New Delhi Sacko Threepeat,95.0,72.5,22.5,1,0,WIN,False,NONE,2016
+2,Bhavuk Tandon,New Delhi Sacko Threepeat,Adam Swietek,EZ Sweezy,72.5,95.0,22.5,0,1,LOSS,False,NONE,2016
+2,Scott Geary,Monday Night Drinking Club,Jake Wetherall,Team Dildo Gaggins,82.0,105.5,23.5,0,1,LOSS,False,NONE,2016
+2,Jake Wetherall,Team Dildo Gaggins,Scott Geary,Monday Night Drinking Club,105.5,82.0,23.5,1,0,WIN,False,NONE,2016
+2,Athan Cheokas,Artful Dodger,Alex Han,Team Han,147.5,98.5,49.0,1,0,WIN,False,NONE,2016
+2,Alex Han,Team Han,Athan Cheokas,Artful Dodger,98.5,147.5,49.0,0,1,LOSS,False,NONE,2016
+2,Trond Liu,As opposed to  no sacko?!,Zack Havanec,Geico Trap,114.0,99.5,14.5,1,0,WIN,False,NONE,2016
+2,Zack Havanec,Geico Trap,Trond Liu,As opposed to  no sacko?!,99.5,114.0,14.5,0,1,LOSS,False,NONE,2016
+2,Adam Kitain,Team NYC Sour D,Matthew Coonrod,Dez Nutz,109.5,73.5,36.0,1,0,WIN,False,NONE,2016
+2,Matthew Coonrod,Dez Nutz,Adam Kitain,Team NYC Sour D,73.5,109.5,36.0,0,1,LOSS,False,NONE,2016
+3,Trond Liu,As opposed to  no sacko?!,Scott Geary,Monday Night Drinking Club,68.5,73.0,4.5,0,1,LOSS,False,NONE,2016
+3,Scott Geary,Monday Night Drinking Club,Trond Liu,As opposed to  no sacko?!,73.0,68.5,4.5,1,0,WIN,False,NONE,2016
+3,Jake Wetherall,Team Dildo Gaggins,Adam Swietek,EZ Sweezy,88.0,133.5,45.5,0,1,LOSS,False,NONE,2016
+3,Adam Swietek,EZ Sweezy,Jake Wetherall,Team Dildo Gaggins,133.5,88.0,45.5,1,0,WIN,False,NONE,2016
+3,Matthew Coonrod,Dez Nutz,Athan Cheokas,Artful Dodger,79.5,81.0,1.5,0,1,LOSS,False,NONE,2016
+3,Athan Cheokas,Artful Dodger,Matthew Coonrod,Dez Nutz,81.0,79.5,1.5,1,0,WIN,False,NONE,2016
+3,Alex Han,Team Han,Zack Havanec,Geico Trap,98.0,129.5,31.5,0,1,LOSS,False,NONE,2016
+3,Zack Havanec,Geico Trap,Alex Han,Team Han,129.5,98.0,31.5,1,0,WIN,False,NONE,2016
+3,Bhavuk Tandon,New Delhi Sacko Threepeat,Adam Kitain,Team NYC Sour D,118.0,153.5,35.5,0,1,LOSS,False,NONE,2016
+3,Adam Kitain,Team NYC Sour D,Bhavuk Tandon,New Delhi Sacko Threepeat,153.5,118.0,35.5,1,0,WIN,False,NONE,2016
+4,Adam Kitain,Team NYC Sour D,Athan Cheokas,Artful Dodger,106.5,57.5,49.0,1,0,WIN,False,NONE,2016
+4,Athan Cheokas,Artful Dodger,Adam Kitain,Team NYC Sour D,57.5,106.5,49.0,0,1,LOSS,False,NONE,2016
+4,Alex Han,Team Han,Scott Geary,Monday Night Drinking Club,90.5,127.0,36.5,0,1,LOSS,False,NONE,2016
+4,Scott Geary,Monday Night Drinking Club,Alex Han,Team Han,127.0,90.5,36.5,1,0,WIN,False,NONE,2016
+4,Trond Liu,As opposed to  no sacko?!,Adam Swietek,EZ Sweezy,77.0,92.0,15.0,0,1,LOSS,False,NONE,2016
+4,Adam Swietek,EZ Sweezy,Trond Liu,As opposed to  no sacko?!,92.0,77.0,15.0,1,0,WIN,False,NONE,2016
+4,Zack Havanec,Geico Trap,Matthew Coonrod,Dez Nutz,129.5,123.0,6.5,1,0,WIN,False,NONE,2016
+4,Matthew Coonrod,Dez Nutz,Zack Havanec,Geico Trap,123.0,129.5,6.5,0,1,LOSS,False,NONE,2016
+4,Bhavuk Tandon,New Delhi Sacko Threepeat,Jake Wetherall,Team Dildo Gaggins,136.5,86.5,50.0,1,0,WIN,False,NONE,2016
+4,Jake Wetherall,Team Dildo Gaggins,Bhavuk Tandon,New Delhi Sacko Threepeat,86.5,136.5,50.0,0,1,LOSS,False,NONE,2016
+5,Zack Havanec,Geico Trap,Adam Kitain,Team NYC Sour D,134.5,146.0,11.5,0,1,LOSS,False,NONE,2016
+5,Adam Kitain,Team NYC Sour D,Zack Havanec,Geico Trap,146.0,134.5,11.5,1,0,WIN,False,NONE,2016
+5,Adam Swietek,EZ Sweezy,Scott Geary,Monday Night Drinking Club,122.5,84.5,38.0,1,0,WIN,False,NONE,2016
+5,Scott Geary,Monday Night Drinking Club,Adam Swietek,EZ Sweezy,84.5,122.5,38.0,0,1,LOSS,False,NONE,2016
+5,Athan Cheokas,Artful Dodger,Jake Wetherall,Team Dildo Gaggins,82.0,104.5,22.5,0,1,LOSS,False,NONE,2016
+5,Jake Wetherall,Team Dildo Gaggins,Athan Cheokas,Artful Dodger,104.5,82.0,22.5,1,0,WIN,False,NONE,2016
+5,Alex Han,Team Han,Matthew Coonrod,Dez Nutz,97.0,126.0,29.0,0,1,LOSS,False,NONE,2016
+5,Matthew Coonrod,Dez Nutz,Alex Han,Team Han,126.0,97.0,29.0,1,0,WIN,False,NONE,2016
+5,Bhavuk Tandon,New Delhi Sacko Threepeat,Trond Liu,As opposed to  no sacko?!,108.5,90.0,18.5,1,0,WIN,False,NONE,2016
+5,Trond Liu,As opposed to  no sacko?!,Bhavuk Tandon,New Delhi Sacko Threepeat,90.0,108.5,18.5,0,1,LOSS,False,NONE,2016
+6,Zack Havanec,Geico Trap,Adam Swietek,EZ Sweezy,82.5,106.5,24.0,0,1,LOSS,False,NONE,2016
+6,Adam Swietek,EZ Sweezy,Zack Havanec,Geico Trap,106.5,82.5,24.0,1,0,WIN,False,NONE,2016
+6,Scott Geary,Monday Night Drinking Club,Matthew Coonrod,Dez Nutz,128.5,98.5,30.0,1,0,WIN,False,NONE,2016
+6,Matthew Coonrod,Dez Nutz,Scott Geary,Monday Night Drinking Club,98.5,128.5,30.0,0,1,LOSS,False,NONE,2016
+6,Athan Cheokas,Artful Dodger,Bhavuk Tandon,New Delhi Sacko Threepeat,82.0,96.0,14.0,0,1,LOSS,False,NONE,2016
+6,Bhavuk Tandon,New Delhi Sacko Threepeat,Athan Cheokas,Artful Dodger,96.0,82.0,14.0,1,0,WIN,False,NONE,2016
+6,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,94.0,97.5,3.5,0,1,LOSS,False,NONE,2016
+6,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,97.5,94.0,3.5,1,0,WIN,False,NONE,2016
+6,Trond Liu,As opposed to  no sacko?!,Adam Kitain,Team NYC Sour D,123.0,101.5,21.5,1,0,WIN,False,NONE,2016
+6,Adam Kitain,Team NYC Sour D,Trond Liu,As opposed to  no sacko?!,101.5,123.0,21.5,0,1,LOSS,False,NONE,2016
+7,Adam Swietek,EZ Sweezy,Alex Han,Team Han,125.5,79.5,46.0,1,0,WIN,False,NONE,2016
+7,Alex Han,Team Han,Adam Swietek,EZ Sweezy,79.5,125.5,46.0,0,1,LOSS,False,NONE,2016
+7,Scott Geary,Monday Night Drinking Club,Zack Havanec,Geico Trap,117.5,122.5,5.0,0,1,LOSS,False,NONE,2016
+7,Zack Havanec,Geico Trap,Scott Geary,Monday Night Drinking Club,122.5,117.5,5.0,1,0,WIN,False,NONE,2016
+7,Bhavuk Tandon,New Delhi Sacko Threepeat,Matthew Coonrod,Dez Nutz,100.5,99.0,1.5,1,0,WIN,False,NONE,2016
+7,Matthew Coonrod,Dez Nutz,Bhavuk Tandon,New Delhi Sacko Threepeat,99.0,100.5,1.5,0,1,LOSS,False,NONE,2016
+7,Jake Wetherall,Team Dildo Gaggins,Adam Kitain,Team NYC Sour D,119.0,120.0,1.0,0,1,LOSS,False,NONE,2016
+7,Adam Kitain,Team NYC Sour D,Jake Wetherall,Team Dildo Gaggins,120.0,119.0,1.0,1,0,WIN,False,NONE,2016
+7,Athan Cheokas,Artful Dodger,Trond Liu,As opposed to  no sacko?!,86.0,101.0,15.0,0,1,LOSS,False,NONE,2016
+7,Trond Liu,As opposed to  no sacko?!,Athan Cheokas,Artful Dodger,101.0,86.0,15.0,1,0,WIN,False,NONE,2016
+8,Adam Kitain,Team NYC Sour D,Adam Swietek,EZ Sweezy,89.5,108.0,18.5,0,1,LOSS,False,NONE,2016
+8,Adam Swietek,EZ Sweezy,Adam Kitain,Team NYC Sour D,108.0,89.5,18.5,1,0,WIN,False,NONE,2016
+8,Scott Geary,Monday Night Drinking Club,Matthew Coonrod,Dez Nutz,74.0,111.0,37.0,0,1,LOSS,False,NONE,2016
+8,Matthew Coonrod,Dez Nutz,Scott Geary,Monday Night Drinking Club,111.0,74.0,37.0,1,0,WIN,False,NONE,2016
+8,Jake Wetherall,Team Dildo Gaggins,Zack Havanec,Geico Trap,126.5,103.5,23.0,1,0,WIN,False,NONE,2016
+8,Zack Havanec,Geico Trap,Jake Wetherall,Team Dildo Gaggins,103.5,126.5,23.0,0,1,LOSS,False,NONE,2016
+8,Athan Cheokas,Artful Dodger,Bhavuk Tandon,New Delhi Sacko Threepeat,86.0,102.5,16.5,0,1,LOSS,False,NONE,2016
+8,Bhavuk Tandon,New Delhi Sacko Threepeat,Athan Cheokas,Artful Dodger,102.5,86.0,16.5,1,0,WIN,False,NONE,2016
+8,Trond Liu,As opposed to  no sacko?!,Alex Han,Team Han,104.5,125.5,21.0,0,1,LOSS,False,NONE,2016
+8,Alex Han,Team Han,Trond Liu,As opposed to  no sacko?!,125.5,104.5,21.0,1,0,WIN,False,NONE,2016
+9,Zack Havanec,Geico Trap,Adam Swietek,EZ Sweezy,108.0,101.0,7.0,1,0,WIN,False,NONE,2016
+9,Adam Swietek,EZ Sweezy,Zack Havanec,Geico Trap,101.0,108.0,7.0,0,1,LOSS,False,NONE,2016
+9,Trond Liu,As opposed to  no sacko?!,Adam Kitain,Team NYC Sour D,125.5,88.5,37.0,1,0,WIN,False,NONE,2016
+9,Adam Kitain,Team NYC Sour D,Trond Liu,As opposed to  no sacko?!,88.5,125.5,37.0,0,1,LOSS,False,NONE,2016
+9,Alex Han,Team Han,Bhavuk Tandon,New Delhi Sacko Threepeat,95.5,119.0,23.5,0,1,LOSS,False,NONE,2016
+9,Bhavuk Tandon,New Delhi Sacko Threepeat,Alex Han,Team Han,119.0,95.5,23.5,1,0,WIN,False,NONE,2016
+9,Jake Wetherall,Team Dildo Gaggins,Matthew Coonrod,Dez Nutz,82.5,112.0,29.5,0,1,LOSS,False,NONE,2016
+9,Matthew Coonrod,Dez Nutz,Jake Wetherall,Team Dildo Gaggins,112.0,82.5,29.5,1,0,WIN,False,NONE,2016
+9,Scott Geary,Monday Night Drinking Club,Athan Cheokas,Artful Dodger,114.0,104.5,9.5,1,0,WIN,False,NONE,2016
+9,Athan Cheokas,Artful Dodger,Scott Geary,Monday Night Drinking Club,104.5,114.0,9.5,0,1,LOSS,False,NONE,2016
+10,Adam Swietek,EZ Sweezy,Athan Cheokas,Artful Dodger,105.5,108.5,3.0,0,1,LOSS,False,NONE,2016
+10,Athan Cheokas,Artful Dodger,Adam Swietek,EZ Sweezy,108.5,105.5,3.0,1,0,WIN,False,NONE,2016
+10,Matthew Coonrod,Dez Nutz,Trond Liu,As opposed to  no sacko?!,131.0,87.5,43.5,1,0,WIN,False,NONE,2016
+10,Trond Liu,As opposed to  no sacko?!,Matthew Coonrod,Dez Nutz,87.5,131.0,43.5,0,1,LOSS,False,NONE,2016
+10,Zack Havanec,Geico Trap,Bhavuk Tandon,New Delhi Sacko Threepeat,120.0,128.5,8.5,0,1,LOSS,False,NONE,2016
+10,Bhavuk Tandon,New Delhi Sacko Threepeat,Zack Havanec,Geico Trap,128.5,120.0,8.5,1,0,WIN,False,NONE,2016
+10,Adam Kitain,Team NYC Sour D,Scott Geary,Monday Night Drinking Club,95.5,100.0,4.5,0,1,LOSS,False,NONE,2016
+10,Scott Geary,Monday Night Drinking Club,Adam Kitain,Team NYC Sour D,100.0,95.5,4.5,1,0,WIN,False,NONE,2016
+10,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,97.5,93.0,4.5,1,0,WIN,False,NONE,2016
+10,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,93.0,97.5,4.5,0,1,LOSS,False,NONE,2016
+11,Adam Swietek,EZ Sweezy,,,196.0,0.0,196.0,0,0,NO CONTEST,True,WINNERS_BRACKET,2016
+11,Zack Havanec,Geico Trap,Bhavuk Tandon,New Delhi Sacko Threepeat,216.5,195.5,21.0,1,0,WIN,True,WINNERS_BRACKET,2016
+11,Bhavuk Tandon,New Delhi Sacko Threepeat,Zack Havanec,Geico Trap,195.5,216.5,21.0,0,1,LOSS,True,WINNERS_BRACKET,2016
+11,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,173.0,222.5,49.5,0,1,LOSS,True,WINNERS_BRACKET,2016
+11,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,222.5,173.0,49.5,1,0,WIN,True,WINNERS_BRACKET,2016
+11,Scott Geary,Monday Night Drinking Club,,,171.5,0.0,171.5,0,0,NO CONTEST,True,WINNERS_BRACKET,2016
+11,Matthew Coonrod,Dez Nutz,Adam Kitain,Team NYC Sour D,199.5,213.0,13.5,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2016
+11,Adam Kitain,Team NYC Sour D,Matthew Coonrod,Dez Nutz,213.0,199.5,13.5,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2016
+11,Athan Cheokas,Artful Dodger,Trond Liu,As opposed to  no sacko?!,185.0,213.5,28.5,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2016
+11,Trond Liu,As opposed to  no sacko?!,Athan Cheokas,Artful Dodger,213.5,185.0,28.5,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2016
+12,Adam Swietek,EZ Sweezy,Zack Havanec,Geico Trap,158.5,244.5,86.0,0,1,LOSS,True,WINNERS_BRACKET,2016
+12,Zack Havanec,Geico Trap,Adam Swietek,EZ Sweezy,244.5,158.5,86.0,1,0,WIN,True,WINNERS_BRACKET,2016
+12,Scott Geary,Monday Night Drinking Club,Alex Han,Team Han,181.5,202.0,20.5,0,1,LOSS,True,WINNERS_BRACKET,2016
+12,Alex Han,Team Han,Scott Geary,Monday Night Drinking Club,202.0,181.5,20.5,1,0,WIN,True,WINNERS_BRACKET,2016
+12,Bhavuk Tandon,New Delhi Sacko Threepeat,Jake Wetherall,Team Dildo Gaggins,186.0,146.0,40.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2016
+12,Jake Wetherall,Team Dildo Gaggins,Bhavuk Tandon,New Delhi Sacko Threepeat,146.0,186.0,40.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2016
+12,Adam Kitain,Team NYC Sour D,Trond Liu,As opposed to  no sacko?!,185.5,181.5,4.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2016
+12,Trond Liu,As opposed to  no sacko?!,Adam Kitain,Team NYC Sour D,181.5,185.5,4.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2016
+12,Matthew Coonrod,Dez Nutz,Athan Cheokas,Artful Dodger,208.5,177.0,31.5,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2016
+12,Athan Cheokas,Artful Dodger,Matthew Coonrod,Dez Nutz,177.0,208.5,31.5,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2016
+13,Zack Havanec,Geico Trap,Alex Han,Team Han,273.0,230.5,42.5,1,0,WIN,True,WINNERS_BRACKET,2016
+13,Alex Han,Team Han,Zack Havanec,Geico Trap,230.5,273.0,42.5,0,1,LOSS,True,WINNERS_BRACKET,2016
+13,Adam Swietek,EZ Sweezy,Scott Geary,Monday Night Drinking Club,136.5,170.5,34.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2016
+13,Scott Geary,Monday Night Drinking Club,Adam Swietek,EZ Sweezy,170.5,136.5,34.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2016
+13,Bhavuk Tandon,New Delhi Sacko Threepeat,Jake Wetherall,Team Dildo Gaggins,226.5,149.5,77.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2016
+13,Jake Wetherall,Team Dildo Gaggins,Bhavuk Tandon,New Delhi Sacko Threepeat,149.5,226.5,77.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2016
+13,Adam Kitain,Team NYC Sour D,Matthew Coonrod,Dez Nutz,204.5,184.5,20.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2016
+13,Matthew Coonrod,Dez Nutz,Adam Kitain,Team NYC Sour D,184.5,204.5,20.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2016
+13,Trond Liu,As opposed to  no sacko?!,Athan Cheokas,Artful Dodger,179.5,163.5,16.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2016
+13,Athan Cheokas,Artful Dodger,Trond Liu,As opposed to  no sacko?!,163.5,179.5,16.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2016

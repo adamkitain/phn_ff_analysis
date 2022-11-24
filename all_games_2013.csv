@@ -1,0 +1,131 @@
+period,team,team_name,opponent,opponent_name,team_score,opponent_score,differential,win,loss,result,is_playoff,matchup_type,year
+1,Adam Swietek,Somewhere over Dwyane Bowe,Matthew Coonrod,Team Master Baiters,100.0,95.0,5.0,1,0,WIN,False,NONE,2013
+1,Matthew Coonrod,Team Master Baiters,Adam Swietek,Somewhere over Dwyane Bowe,95.0,100.0,5.0,0,1,LOSS,False,NONE,2013
+1,Jake Wetherall,Team Dildo Gaggins,Trond Liu,Morning Woodhead,99.0,94.0,5.0,1,0,WIN,False,NONE,2013
+1,Trond Liu,Morning Woodhead,Jake Wetherall,Team Dildo Gaggins,94.0,99.0,5.0,0,1,LOSS,False,NONE,2013
+1,Athan Cheokas,Team Cheokas,Zack Havanec,Geico Trap,87.0,138.0,51.0,0,1,LOSS,False,NONE,2013
+1,Zack Havanec,Geico Trap,Athan Cheokas,Team Cheokas,138.0,87.0,51.0,1,0,WIN,False,NONE,2013
+1,Scott Geary,Hernandez's  Hit Men,Bhavuk Tandon,i JACQUIZZED on ur mom,81.0,112.0,31.0,0,1,LOSS,False,NONE,2013
+1,Bhavuk Tandon,i JACQUIZZED on ur mom,Scott Geary,Hernandez's  Hit Men,112.0,81.0,31.0,1,0,WIN,False,NONE,2013
+1,Alex Han,Team Han,Adam Kitain,Team NYC Sour D,71.0,110.0,39.0,0,1,LOSS,False,NONE,2013
+1,Adam Kitain,Team NYC Sour D,Alex Han,Team Han,110.0,71.0,39.0,1,0,WIN,False,NONE,2013
+2,Trond Liu,Morning Woodhead,Zack Havanec,Geico Trap,100.0,91.0,9.0,1,0,WIN,False,NONE,2013
+2,Zack Havanec,Geico Trap,Trond Liu,Morning Woodhead,91.0,100.0,9.0,0,1,LOSS,False,NONE,2013
+2,Bhavuk Tandon,i JACQUIZZED on ur mom,Adam Swietek,Somewhere over Dwyane Bowe,64.0,87.0,23.0,0,1,LOSS,False,NONE,2013
+2,Adam Swietek,Somewhere over Dwyane Bowe,Bhavuk Tandon,i JACQUIZZED on ur mom,87.0,64.0,23.0,1,0,WIN,False,NONE,2013
+2,Adam Kitain,Team NYC Sour D,Matthew Coonrod,Team Master Baiters,81.0,74.0,7.0,1,0,WIN,False,NONE,2013
+2,Matthew Coonrod,Team Master Baiters,Adam Kitain,Team NYC Sour D,74.0,81.0,7.0,0,1,LOSS,False,NONE,2013
+2,Scott Geary,Hernandez's  Hit Men,Jake Wetherall,Team Dildo Gaggins,92.0,132.0,40.0,0,1,LOSS,False,NONE,2013
+2,Jake Wetherall,Team Dildo Gaggins,Scott Geary,Hernandez's  Hit Men,132.0,92.0,40.0,1,0,WIN,False,NONE,2013
+2,Alex Han,Team Han,Athan Cheokas,Team Cheokas,104.0,68.0,36.0,1,0,WIN,False,NONE,2013
+2,Athan Cheokas,Team Cheokas,Alex Han,Team Han,68.0,104.0,36.0,0,1,LOSS,False,NONE,2013
+3,Bhavuk Tandon,i JACQUIZZED on ur mom,Adam Kitain,Team NYC Sour D,88.0,111.0,23.0,0,1,LOSS,False,NONE,2013
+3,Adam Kitain,Team NYC Sour D,Bhavuk Tandon,i JACQUIZZED on ur mom,111.0,88.0,23.0,1,0,WIN,False,NONE,2013
+3,Trond Liu,Morning Woodhead,Scott Geary,Hernandez's  Hit Men,88.0,65.0,23.0,1,0,WIN,False,NONE,2013
+3,Scott Geary,Hernandez's  Hit Men,Trond Liu,Morning Woodhead,65.0,88.0,23.0,0,1,LOSS,False,NONE,2013
+3,Zack Havanec,Geico Trap,Alex Han,Team Han,90.0,87.0,3.0,1,0,WIN,False,NONE,2013
+3,Alex Han,Team Han,Zack Havanec,Geico Trap,87.0,90.0,3.0,0,1,LOSS,False,NONE,2013
+3,Adam Swietek,Somewhere over Dwyane Bowe,Jake Wetherall,Team Dildo Gaggins,53.0,80.0,27.0,0,1,LOSS,False,NONE,2013
+3,Jake Wetherall,Team Dildo Gaggins,Adam Swietek,Somewhere over Dwyane Bowe,80.0,53.0,27.0,1,0,WIN,False,NONE,2013
+3,Matthew Coonrod,Team Master Baiters,Athan Cheokas,Team Cheokas,66.0,86.0,20.0,0,1,LOSS,False,NONE,2013
+3,Athan Cheokas,Team Cheokas,Matthew Coonrod,Team Master Baiters,86.0,66.0,20.0,1,0,WIN,False,NONE,2013
+4,Alex Han,Team Han,Scott Geary,Hernandez's  Hit Men,89.0,91.0,2.0,0,1,LOSS,False,NONE,2013
+4,Scott Geary,Hernandez's  Hit Men,Alex Han,Team Han,91.0,89.0,2.0,1,0,WIN,False,NONE,2013
+4,Jake Wetherall,Team Dildo Gaggins,Bhavuk Tandon,i JACQUIZZED on ur mom,82.0,144.0,62.0,0,1,LOSS,False,NONE,2013
+4,Bhavuk Tandon,i JACQUIZZED on ur mom,Jake Wetherall,Team Dildo Gaggins,144.0,82.0,62.0,1,0,WIN,False,NONE,2013
+4,Athan Cheokas,Team Cheokas,Adam Kitain,Team NYC Sour D,80.0,89.0,9.0,0,1,LOSS,False,NONE,2013
+4,Adam Kitain,Team NYC Sour D,Athan Cheokas,Team Cheokas,89.0,80.0,9.0,1,0,WIN,False,NONE,2013
+4,Adam Swietek,Somewhere over Dwyane Bowe,Trond Liu,Morning Woodhead,112.0,124.0,12.0,0,1,LOSS,False,NONE,2013
+4,Trond Liu,Morning Woodhead,Adam Swietek,Somewhere over Dwyane Bowe,124.0,112.0,12.0,1,0,WIN,False,NONE,2013
+4,Matthew Coonrod,Team Master Baiters,Zack Havanec,Geico Trap,111.0,87.0,24.0,1,0,WIN,False,NONE,2013
+4,Zack Havanec,Geico Trap,Matthew Coonrod,Team Master Baiters,87.0,111.0,24.0,0,1,LOSS,False,NONE,2013
+5,Jake Wetherall,Team Dildo Gaggins,Athan Cheokas,Team Cheokas,85.0,98.0,13.0,0,1,LOSS,False,NONE,2013
+5,Athan Cheokas,Team Cheokas,Jake Wetherall,Team Dildo Gaggins,98.0,85.0,13.0,1,0,WIN,False,NONE,2013
+5,Scott Geary,Hernandez's  Hit Men,Adam Swietek,Somewhere over Dwyane Bowe,71.0,86.0,15.0,0,1,LOSS,False,NONE,2013
+5,Adam Swietek,Somewhere over Dwyane Bowe,Scott Geary,Hernandez's  Hit Men,86.0,71.0,15.0,1,0,WIN,False,NONE,2013
+5,Alex Han,Team Han,Matthew Coonrod,Team Master Baiters,62.0,69.0,7.0,0,1,LOSS,False,NONE,2013
+5,Matthew Coonrod,Team Master Baiters,Alex Han,Team Han,69.0,62.0,7.0,1,0,WIN,False,NONE,2013
+5,Bhavuk Tandon,i JACQUIZZED on ur mom,Trond Liu,Morning Woodhead,97.0,108.0,11.0,0,1,LOSS,False,NONE,2013
+5,Trond Liu,Morning Woodhead,Bhavuk Tandon,i JACQUIZZED on ur mom,108.0,97.0,11.0,1,0,WIN,False,NONE,2013
+5,Adam Kitain,Team NYC Sour D,Zack Havanec,Geico Trap,108.0,99.0,9.0,1,0,WIN,False,NONE,2013
+5,Zack Havanec,Geico Trap,Adam Kitain,Team NYC Sour D,99.0,108.0,9.0,0,1,LOSS,False,NONE,2013
+6,Matthew Coonrod,Team Master Baiters,Trond Liu,Morning Woodhead,62.0,88.0,26.0,0,1,LOSS,False,NONE,2013
+6,Trond Liu,Morning Woodhead,Matthew Coonrod,Team Master Baiters,88.0,62.0,26.0,1,0,WIN,False,NONE,2013
+6,Zack Havanec,Geico Trap,Bhavuk Tandon,i JACQUIZZED on ur mom,70.0,70.0,0.0,1,0,WIN,False,NONE,2013
+6,Bhavuk Tandon,i JACQUIZZED on ur mom,Zack Havanec,Geico Trap,70.0,70.0,0.0,0,1,LOSS,False,NONE,2013
+6,Adam Kitain,Team NYC Sour D,Scott Geary,Hernandez's  Hit Men,77.0,141.0,64.0,0,1,LOSS,False,NONE,2013
+6,Scott Geary,Hernandez's  Hit Men,Adam Kitain,Team NYC Sour D,141.0,77.0,64.0,1,0,WIN,False,NONE,2013
+6,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,79.0,63.0,16.0,1,0,WIN,False,NONE,2013
+6,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,63.0,79.0,16.0,0,1,LOSS,False,NONE,2013
+6,Athan Cheokas,Team Cheokas,Adam Swietek,Somewhere over Dwyane Bowe,100.0,138.0,38.0,0,1,LOSS,False,NONE,2013
+6,Adam Swietek,Somewhere over Dwyane Bowe,Athan Cheokas,Team Cheokas,138.0,100.0,38.0,1,0,WIN,False,NONE,2013
+7,Bhavuk Tandon,i JACQUIZZED on ur mom,Matthew Coonrod,Team Master Baiters,91.0,77.0,14.0,1,0,WIN,False,NONE,2013
+7,Matthew Coonrod,Team Master Baiters,Bhavuk Tandon,i JACQUIZZED on ur mom,77.0,91.0,14.0,0,1,LOSS,False,NONE,2013
+7,Scott Geary,Hernandez's  Hit Men,Zack Havanec,Geico Trap,96.0,88.0,8.0,1,0,WIN,False,NONE,2013
+7,Zack Havanec,Geico Trap,Scott Geary,Hernandez's  Hit Men,88.0,96.0,8.0,0,1,LOSS,False,NONE,2013
+7,Jake Wetherall,Team Dildo Gaggins,Adam Kitain,Team NYC Sour D,71.0,74.0,3.0,0,1,LOSS,False,NONE,2013
+7,Adam Kitain,Team NYC Sour D,Jake Wetherall,Team Dildo Gaggins,74.0,71.0,3.0,1,0,WIN,False,NONE,2013
+7,Adam Swietek,Somewhere over Dwyane Bowe,Alex Han,Team Han,79.0,94.0,15.0,0,1,LOSS,False,NONE,2013
+7,Alex Han,Team Han,Adam Swietek,Somewhere over Dwyane Bowe,94.0,79.0,15.0,1,0,WIN,False,NONE,2013
+7,Trond Liu,Morning Woodhead,Athan Cheokas,Team Cheokas,115.0,77.0,38.0,1,0,WIN,False,NONE,2013
+7,Athan Cheokas,Team Cheokas,Trond Liu,Morning Woodhead,77.0,115.0,38.0,0,1,LOSS,False,NONE,2013
+8,Matthew Coonrod,Team Master Baiters,Scott Geary,Hernandez's  Hit Men,126.0,91.0,35.0,1,0,WIN,False,NONE,2013
+8,Scott Geary,Hernandez's  Hit Men,Matthew Coonrod,Team Master Baiters,91.0,126.0,35.0,0,1,LOSS,False,NONE,2013
+8,Zack Havanec,Geico Trap,Jake Wetherall,Team Dildo Gaggins,78.0,98.0,20.0,0,1,LOSS,False,NONE,2013
+8,Jake Wetherall,Team Dildo Gaggins,Zack Havanec,Geico Trap,98.0,78.0,20.0,1,0,WIN,False,NONE,2013
+8,Adam Kitain,Team NYC Sour D,Adam Swietek,Somewhere over Dwyane Bowe,71.0,47.0,24.0,1,0,WIN,False,NONE,2013
+8,Adam Swietek,Somewhere over Dwyane Bowe,Adam Kitain,Team NYC Sour D,47.0,71.0,24.0,0,1,LOSS,False,NONE,2013
+8,Alex Han,Team Han,Trond Liu,Morning Woodhead,70.0,94.0,24.0,0,1,LOSS,False,NONE,2013
+8,Trond Liu,Morning Woodhead,Alex Han,Team Han,94.0,70.0,24.0,1,0,WIN,False,NONE,2013
+8,Athan Cheokas,Team Cheokas,Bhavuk Tandon,i JACQUIZZED on ur mom,109.0,105.0,4.0,1,0,WIN,False,NONE,2013
+8,Bhavuk Tandon,i JACQUIZZED on ur mom,Athan Cheokas,Team Cheokas,105.0,109.0,4.0,0,1,LOSS,False,NONE,2013
+9,Zack Havanec,Geico Trap,Adam Swietek,Somewhere over Dwyane Bowe,100.0,85.0,15.0,1,0,WIN,False,NONE,2013
+9,Adam Swietek,Somewhere over Dwyane Bowe,Zack Havanec,Geico Trap,85.0,100.0,15.0,0,1,LOSS,False,NONE,2013
+9,Adam Kitain,Team NYC Sour D,Trond Liu,Morning Woodhead,124.0,86.0,38.0,1,0,WIN,False,NONE,2013
+9,Trond Liu,Morning Woodhead,Adam Kitain,Team NYC Sour D,86.0,124.0,38.0,0,1,LOSS,False,NONE,2013
+9,Alex Han,Team Han,Bhavuk Tandon,i JACQUIZZED on ur mom,112.0,91.0,21.0,1,0,WIN,False,NONE,2013
+9,Bhavuk Tandon,i JACQUIZZED on ur mom,Alex Han,Team Han,91.0,112.0,21.0,0,1,LOSS,False,NONE,2013
+9,Athan Cheokas,Team Cheokas,Scott Geary,Hernandez's  Hit Men,118.0,91.0,27.0,1,0,WIN,False,NONE,2013
+9,Scott Geary,Hernandez's  Hit Men,Athan Cheokas,Team Cheokas,91.0,118.0,27.0,0,1,LOSS,False,NONE,2013
+9,Jake Wetherall,Team Dildo Gaggins,Matthew Coonrod,Team Master Baiters,40.0,110.0,70.0,0,1,LOSS,False,NONE,2013
+9,Matthew Coonrod,Team Master Baiters,Jake Wetherall,Team Dildo Gaggins,110.0,40.0,70.0,1,0,WIN,False,NONE,2013
+10,Scott Geary,Hernandez's  Hit Men,Matthew Coonrod,Team Master Baiters,58.0,97.0,39.0,0,1,LOSS,False,NONE,2013
+10,Matthew Coonrod,Team Master Baiters,Scott Geary,Hernandez's  Hit Men,97.0,58.0,39.0,1,0,WIN,False,NONE,2013
+10,Bhavuk Tandon,i JACQUIZZED on ur mom,Athan Cheokas,Team Cheokas,101.0,63.0,38.0,1,0,WIN,False,NONE,2013
+10,Athan Cheokas,Team Cheokas,Bhavuk Tandon,i JACQUIZZED on ur mom,63.0,101.0,38.0,0,1,LOSS,False,NONE,2013
+10,Trond Liu,Morning Woodhead,Adam Kitain,Team NYC Sour D,61.0,91.0,30.0,0,1,LOSS,False,NONE,2013
+10,Adam Kitain,Team NYC Sour D,Trond Liu,Morning Woodhead,91.0,61.0,30.0,1,0,WIN,False,NONE,2013
+10,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,45.0,89.0,44.0,0,1,LOSS,False,NONE,2013
+10,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,89.0,45.0,44.0,1,0,WIN,False,NONE,2013
+10,Adam Swietek,Somewhere over Dwyane Bowe,Zack Havanec,Geico Trap,93.0,128.0,35.0,0,1,LOSS,False,NONE,2013
+10,Zack Havanec,Geico Trap,Adam Swietek,Somewhere over Dwyane Bowe,128.0,93.0,35.0,1,0,WIN,False,NONE,2013
+11,Adam Kitain,Team NYC Sour D,Adam Swietek,Somewhere over Dwyane Bowe,195.0,163.0,32.0,1,0,WIN,True,WINNERS_BRACKET,2013
+11,Adam Swietek,Somewhere over Dwyane Bowe,Adam Kitain,Team NYC Sour D,163.0,195.0,32.0,0,1,LOSS,True,WINNERS_BRACKET,2013
+11,Matthew Coonrod,Team Master Baiters,Alex Han,Team Han,206.0,125.0,81.0,1,0,WIN,True,WINNERS_BRACKET,2013
+11,Alex Han,Team Han,Matthew Coonrod,Team Master Baiters,125.0,206.0,81.0,0,1,LOSS,True,WINNERS_BRACKET,2013
+11,Zack Havanec,Geico Trap,Bhavuk Tandon,i JACQUIZZED on ur mom,164.0,189.0,25.0,0,1,LOSS,True,WINNERS_BRACKET,2013
+11,Bhavuk Tandon,i JACQUIZZED on ur mom,Zack Havanec,Geico Trap,189.0,164.0,25.0,1,0,WIN,True,WINNERS_BRACKET,2013
+11,Trond Liu,Morning Woodhead,Athan Cheokas,Team Cheokas,151.0,222.0,71.0,0,1,LOSS,True,WINNERS_BRACKET,2013
+11,Athan Cheokas,Team Cheokas,Trond Liu,Morning Woodhead,222.0,151.0,71.0,1,0,WIN,True,WINNERS_BRACKET,2013
+11,Jake Wetherall,Team Dildo Gaggins,Scott Geary,Hernandez's  Hit Men,158.0,213.0,55.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2013
+11,Scott Geary,Hernandez's  Hit Men,Jake Wetherall,Team Dildo Gaggins,213.0,158.0,55.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2013
+12,Adam Kitain,Team NYC Sour D,Matthew Coonrod,Team Master Baiters,189.0,176.0,13.0,1,0,WIN,True,WINNERS_BRACKET,2013
+12,Matthew Coonrod,Team Master Baiters,Adam Kitain,Team NYC Sour D,176.0,189.0,13.0,0,1,LOSS,True,WINNERS_BRACKET,2013
+12,Bhavuk Tandon,i JACQUIZZED on ur mom,Athan Cheokas,Team Cheokas,145.0,222.0,77.0,0,1,LOSS,True,WINNERS_BRACKET,2013
+12,Athan Cheokas,Team Cheokas,Bhavuk Tandon,i JACQUIZZED on ur mom,222.0,145.0,77.0,1,0,WIN,True,WINNERS_BRACKET,2013
+12,Trond Liu,Morning Woodhead,Zack Havanec,Geico Trap,191.0,217.0,26.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2013
+12,Zack Havanec,Geico Trap,Trond Liu,Morning Woodhead,217.0,191.0,26.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2013
+12,Alex Han,Team Han,Adam Swietek,Somewhere over Dwyane Bowe,133.0,236.0,103.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2013
+12,Adam Swietek,Somewhere over Dwyane Bowe,Alex Han,Team Han,236.0,133.0,103.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2013
+12,Jake Wetherall,Team Dildo Gaggins,Scott Geary,Hernandez's  Hit Men,148.0,209.0,61.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2013
+12,Scott Geary,Hernandez's  Hit Men,Jake Wetherall,Team Dildo Gaggins,209.0,148.0,61.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2013
+13,Adam Kitain,Team NYC Sour D,Athan Cheokas,Team Cheokas,188.0,197.0,9.0,0,1,LOSS,True,WINNERS_BRACKET,2013
+13,Athan Cheokas,Team Cheokas,Adam Kitain,Team NYC Sour D,197.0,188.0,9.0,1,0,WIN,True,WINNERS_BRACKET,2013
+13,Matthew Coonrod,Team Master Baiters,Bhavuk Tandon,i JACQUIZZED on ur mom,268.0,138.0,130.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2013
+13,Bhavuk Tandon,i JACQUIZZED on ur mom,Matthew Coonrod,Team Master Baiters,138.0,268.0,130.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2013
+13,Zack Havanec,Geico Trap,Adam Swietek,Somewhere over Dwyane Bowe,181.0,166.0,15.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2013
+13,Adam Swietek,Somewhere over Dwyane Bowe,Zack Havanec,Geico Trap,166.0,181.0,15.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2013
+13,Trond Liu,Morning Woodhead,Alex Han,Team Han,172.0,171.0,1.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2013
+13,Alex Han,Team Han,Trond Liu,Morning Woodhead,171.0,172.0,1.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2013
+13,Jake Wetherall,Team Dildo Gaggins,Scott Geary,Hernandez's  Hit Men,121.0,156.0,35.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2013
+13,Scott Geary,Hernandez's  Hit Men,Jake Wetherall,Team Dildo Gaggins,156.0,121.0,35.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2013

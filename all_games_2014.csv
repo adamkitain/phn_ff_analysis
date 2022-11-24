@@ -1,0 +1,131 @@
+period,team,team_name,opponent,opponent_name,team_score,opponent_score,differential,win,loss,result,is_playoff,matchup_type,year
+1,Adam Swietek,Turn Down for  Watt,Matthew Coonrod,Gronk if You're Horny,115.5,109.0,6.5,1,0,WIN,False,NONE,2014
+1,Matthew Coonrod,Gronk if You're Horny,Adam Swietek,Turn Down for  Watt,109.0,115.5,6.5,0,1,LOSS,False,NONE,2014
+1,Jake Wetherall,Team Dildo Gaggins,Trond Liu,"Half Jap, Half Jew Children",95.0,103.5,8.5,0,1,LOSS,False,NONE,2014
+1,Trond Liu,"Half Jap, Half Jew Children",Jake Wetherall,Team Dildo Gaggins,103.5,95.0,8.5,1,0,WIN,False,NONE,2014
+1,Athan Cheokas,Team Cheokas,Zack Havanec,Geico Trap,111.5,77.5,34.0,1,0,WIN,False,NONE,2014
+1,Zack Havanec,Geico Trap,Athan Cheokas,Team Cheokas,77.5,111.5,34.0,0,1,LOSS,False,NONE,2014
+1,Scott Geary,Monday Night Drinking Club,Bhavuk Tandon,Even the closet is bigger in TX,96.0,118.0,22.0,0,1,LOSS,False,NONE,2014
+1,Bhavuk Tandon,Even the closet is bigger in TX,Scott Geary,Monday Night Drinking Club,118.0,96.0,22.0,1,0,WIN,False,NONE,2014
+1,Alex Han,Team Han,Adam Kitain,Team NYC Sour D,117.0,85.5,31.5,1,0,WIN,False,NONE,2014
+1,Adam Kitain,Team NYC Sour D,Alex Han,Team Han,85.5,117.0,31.5,0,1,LOSS,False,NONE,2014
+2,Trond Liu,"Half Jap, Half Jew Children",Zack Havanec,Geico Trap,114.0,90.5,23.5,1,0,WIN,False,NONE,2014
+2,Zack Havanec,Geico Trap,Trond Liu,"Half Jap, Half Jew Children",90.5,114.0,23.5,0,1,LOSS,False,NONE,2014
+2,Bhavuk Tandon,Even the closet is bigger in TX,Adam Swietek,Turn Down for  Watt,99.5,72.0,27.5,1,0,WIN,False,NONE,2014
+2,Adam Swietek,Turn Down for  Watt,Bhavuk Tandon,Even the closet is bigger in TX,72.0,99.5,27.5,0,1,LOSS,False,NONE,2014
+2,Adam Kitain,Team NYC Sour D,Matthew Coonrod,Gronk if You're Horny,118.5,61.5,57.0,1,0,WIN,False,NONE,2014
+2,Matthew Coonrod,Gronk if You're Horny,Adam Kitain,Team NYC Sour D,61.5,118.5,57.0,0,1,LOSS,False,NONE,2014
+2,Scott Geary,Monday Night Drinking Club,Jake Wetherall,Team Dildo Gaggins,73.5,109.5,36.0,0,1,LOSS,False,NONE,2014
+2,Jake Wetherall,Team Dildo Gaggins,Scott Geary,Monday Night Drinking Club,109.5,73.5,36.0,1,0,WIN,False,NONE,2014
+2,Alex Han,Team Han,Athan Cheokas,Team Cheokas,107.0,88.0,19.0,1,0,WIN,False,NONE,2014
+2,Athan Cheokas,Team Cheokas,Alex Han,Team Han,88.0,107.0,19.0,0,1,LOSS,False,NONE,2014
+3,Bhavuk Tandon,Even the closet is bigger in TX,Adam Kitain,Team NYC Sour D,68.0,69.0,1.0,0,1,LOSS,False,NONE,2014
+3,Adam Kitain,Team NYC Sour D,Bhavuk Tandon,Even the closet is bigger in TX,69.0,68.0,1.0,1,0,WIN,False,NONE,2014
+3,Trond Liu,"Half Jap, Half Jew Children",Scott Geary,Monday Night Drinking Club,134.0,128.0,6.0,1,0,WIN,False,NONE,2014
+3,Scott Geary,Monday Night Drinking Club,Trond Liu,"Half Jap, Half Jew Children",128.0,134.0,6.0,0,1,LOSS,False,NONE,2014
+3,Zack Havanec,Geico Trap,Alex Han,Team Han,95.0,92.5,2.5,1,0,WIN,False,NONE,2014
+3,Alex Han,Team Han,Zack Havanec,Geico Trap,92.5,95.0,2.5,0,1,LOSS,False,NONE,2014
+3,Adam Swietek,Turn Down for  Watt,Jake Wetherall,Team Dildo Gaggins,77.0,68.0,9.0,1,0,WIN,False,NONE,2014
+3,Jake Wetherall,Team Dildo Gaggins,Adam Swietek,Turn Down for  Watt,68.0,77.0,9.0,0,1,LOSS,False,NONE,2014
+3,Matthew Coonrod,Gronk if You're Horny,Athan Cheokas,Team Cheokas,101.0,116.5,15.5,0,1,LOSS,False,NONE,2014
+3,Athan Cheokas,Team Cheokas,Matthew Coonrod,Gronk if You're Horny,116.5,101.0,15.5,1,0,WIN,False,NONE,2014
+4,Alex Han,Team Han,Scott Geary,Monday Night Drinking Club,82.0,115.5,33.5,0,1,LOSS,False,NONE,2014
+4,Scott Geary,Monday Night Drinking Club,Alex Han,Team Han,115.5,82.0,33.5,1,0,WIN,False,NONE,2014
+4,Jake Wetherall,Team Dildo Gaggins,Bhavuk Tandon,Even the closet is bigger in TX,140.0,80.5,59.5,1,0,WIN,False,NONE,2014
+4,Bhavuk Tandon,Even the closet is bigger in TX,Jake Wetherall,Team Dildo Gaggins,80.5,140.0,59.5,0,1,LOSS,False,NONE,2014
+4,Athan Cheokas,Team Cheokas,Adam Kitain,Team NYC Sour D,99.5,92.5,7.0,1,0,WIN,False,NONE,2014
+4,Adam Kitain,Team NYC Sour D,Athan Cheokas,Team Cheokas,92.5,99.5,7.0,0,1,LOSS,False,NONE,2014
+4,Adam Swietek,Turn Down for  Watt,Trond Liu,"Half Jap, Half Jew Children",97.0,92.0,5.0,1,0,WIN,False,NONE,2014
+4,Trond Liu,"Half Jap, Half Jew Children",Adam Swietek,Turn Down for  Watt,92.0,97.0,5.0,0,1,LOSS,False,NONE,2014
+4,Matthew Coonrod,Gronk if You're Horny,Zack Havanec,Geico Trap,133.5,123.5,10.0,1,0,WIN,False,NONE,2014
+4,Zack Havanec,Geico Trap,Matthew Coonrod,Gronk if You're Horny,123.5,133.5,10.0,0,1,LOSS,False,NONE,2014
+5,Jake Wetherall,Team Dildo Gaggins,Athan Cheokas,Team Cheokas,101.5,104.5,3.0,0,1,LOSS,False,NONE,2014
+5,Athan Cheokas,Team Cheokas,Jake Wetherall,Team Dildo Gaggins,104.5,101.5,3.0,1,0,WIN,False,NONE,2014
+5,Scott Geary,Monday Night Drinking Club,Adam Swietek,Turn Down for  Watt,116.5,95.5,21.0,1,0,WIN,False,NONE,2014
+5,Adam Swietek,Turn Down for  Watt,Scott Geary,Monday Night Drinking Club,95.5,116.5,21.0,0,1,LOSS,False,NONE,2014
+5,Alex Han,Team Han,Matthew Coonrod,Gronk if You're Horny,121.0,75.0,46.0,1,0,WIN,False,NONE,2014
+5,Matthew Coonrod,Gronk if You're Horny,Alex Han,Team Han,75.0,121.0,46.0,0,1,LOSS,False,NONE,2014
+5,Bhavuk Tandon,Even the closet is bigger in TX,Trond Liu,"Half Jap, Half Jew Children",95.0,110.5,15.5,0,1,LOSS,False,NONE,2014
+5,Trond Liu,"Half Jap, Half Jew Children",Bhavuk Tandon,Even the closet is bigger in TX,110.5,95.0,15.5,1,0,WIN,False,NONE,2014
+5,Adam Kitain,Team NYC Sour D,Zack Havanec,Geico Trap,73.5,115.5,42.0,0,1,LOSS,False,NONE,2014
+5,Zack Havanec,Geico Trap,Adam Kitain,Team NYC Sour D,115.5,73.5,42.0,1,0,WIN,False,NONE,2014
+6,Matthew Coonrod,Gronk if You're Horny,Trond Liu,"Half Jap, Half Jew Children",100.5,84.5,16.0,1,0,WIN,False,NONE,2014
+6,Trond Liu,"Half Jap, Half Jew Children",Matthew Coonrod,Gronk if You're Horny,84.5,100.5,16.0,0,1,LOSS,False,NONE,2014
+6,Zack Havanec,Geico Trap,Bhavuk Tandon,Even the closet is bigger in TX,103.0,119.0,16.0,0,1,LOSS,False,NONE,2014
+6,Bhavuk Tandon,Even the closet is bigger in TX,Zack Havanec,Geico Trap,119.0,103.0,16.0,1,0,WIN,False,NONE,2014
+6,Adam Kitain,Team NYC Sour D,Scott Geary,Monday Night Drinking Club,132.0,127.0,5.0,1,0,WIN,False,NONE,2014
+6,Scott Geary,Monday Night Drinking Club,Adam Kitain,Team NYC Sour D,127.0,132.0,5.0,0,1,LOSS,False,NONE,2014
+6,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,106.5,128.5,22.0,0,1,LOSS,False,NONE,2014
+6,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,128.5,106.5,22.0,1,0,WIN,False,NONE,2014
+6,Athan Cheokas,Team Cheokas,Adam Swietek,Turn Down for  Watt,107.0,77.0,30.0,1,0,WIN,False,NONE,2014
+6,Adam Swietek,Turn Down for  Watt,Athan Cheokas,Team Cheokas,77.0,107.0,30.0,0,1,LOSS,False,NONE,2014
+7,Bhavuk Tandon,Even the closet is bigger in TX,Matthew Coonrod,Gronk if You're Horny,97.0,112.5,15.5,0,1,LOSS,False,NONE,2014
+7,Matthew Coonrod,Gronk if You're Horny,Bhavuk Tandon,Even the closet is bigger in TX,112.5,97.0,15.5,1,0,WIN,False,NONE,2014
+7,Scott Geary,Monday Night Drinking Club,Zack Havanec,Geico Trap,76.0,111.0,35.0,0,1,LOSS,False,NONE,2014
+7,Zack Havanec,Geico Trap,Scott Geary,Monday Night Drinking Club,111.0,76.0,35.0,1,0,WIN,False,NONE,2014
+7,Jake Wetherall,Team Dildo Gaggins,Adam Kitain,Team NYC Sour D,103.0,116.0,13.0,0,1,LOSS,False,NONE,2014
+7,Adam Kitain,Team NYC Sour D,Jake Wetherall,Team Dildo Gaggins,116.0,103.0,13.0,1,0,WIN,False,NONE,2014
+7,Adam Swietek,Turn Down for  Watt,Alex Han,Team Han,49.0,94.5,45.5,0,1,LOSS,False,NONE,2014
+7,Alex Han,Team Han,Adam Swietek,Turn Down for  Watt,94.5,49.0,45.5,1,0,WIN,False,NONE,2014
+7,Trond Liu,"Half Jap, Half Jew Children",Athan Cheokas,Team Cheokas,69.5,117.0,47.5,0,1,LOSS,False,NONE,2014
+7,Athan Cheokas,Team Cheokas,Trond Liu,"Half Jap, Half Jew Children",117.0,69.5,47.5,1,0,WIN,False,NONE,2014
+8,Matthew Coonrod,Gronk if You're Horny,Scott Geary,Monday Night Drinking Club,79.0,148.0,69.0,0,1,LOSS,False,NONE,2014
+8,Scott Geary,Monday Night Drinking Club,Matthew Coonrod,Gronk if You're Horny,148.0,79.0,69.0,1,0,WIN,False,NONE,2014
+8,Zack Havanec,Geico Trap,Jake Wetherall,Team Dildo Gaggins,125.0,125.0,0.0,1,0,WIN,False,NONE,2014
+8,Jake Wetherall,Team Dildo Gaggins,Zack Havanec,Geico Trap,125.0,125.0,0.0,0,1,LOSS,False,NONE,2014
+8,Adam Kitain,Team NYC Sour D,Adam Swietek,Turn Down for  Watt,86.0,120.0,34.0,0,1,LOSS,False,NONE,2014
+8,Adam Swietek,Turn Down for  Watt,Adam Kitain,Team NYC Sour D,120.0,86.0,34.0,1,0,WIN,False,NONE,2014
+8,Alex Han,Team Han,Trond Liu,"Half Jap, Half Jew Children",138.5,162.5,24.0,0,1,LOSS,False,NONE,2014
+8,Trond Liu,"Half Jap, Half Jew Children",Alex Han,Team Han,162.5,138.5,24.0,1,0,WIN,False,NONE,2014
+8,Athan Cheokas,Team Cheokas,Bhavuk Tandon,Even the closet is bigger in TX,87.5,101.0,13.5,0,1,LOSS,False,NONE,2014
+8,Bhavuk Tandon,Even the closet is bigger in TX,Athan Cheokas,Team Cheokas,101.0,87.5,13.5,1,0,WIN,False,NONE,2014
+9,Zack Havanec,Geico Trap,Adam Swietek,Turn Down for  Watt,83.0,122.0,39.0,0,1,LOSS,False,NONE,2014
+9,Adam Swietek,Turn Down for  Watt,Zack Havanec,Geico Trap,122.0,83.0,39.0,1,0,WIN,False,NONE,2014
+9,Adam Kitain,Team NYC Sour D,Trond Liu,"Half Jap, Half Jew Children",90.5,136.0,45.5,0,1,LOSS,False,NONE,2014
+9,Trond Liu,"Half Jap, Half Jew Children",Adam Kitain,Team NYC Sour D,136.0,90.5,45.5,1,0,WIN,False,NONE,2014
+9,Alex Han,Team Han,Bhavuk Tandon,Even the closet is bigger in TX,106.5,99.5,7.0,1,0,WIN,False,NONE,2014
+9,Bhavuk Tandon,Even the closet is bigger in TX,Alex Han,Team Han,99.5,106.5,7.0,0,1,LOSS,False,NONE,2014
+9,Athan Cheokas,Team Cheokas,Scott Geary,Monday Night Drinking Club,97.0,139.5,42.5,0,1,LOSS,False,NONE,2014
+9,Scott Geary,Monday Night Drinking Club,Athan Cheokas,Team Cheokas,139.5,97.0,42.5,1,0,WIN,False,NONE,2014
+9,Jake Wetherall,Team Dildo Gaggins,Matthew Coonrod,Gronk if You're Horny,136.0,74.0,62.0,1,0,WIN,False,NONE,2014
+9,Matthew Coonrod,Gronk if You're Horny,Jake Wetherall,Team Dildo Gaggins,74.0,136.0,62.0,0,1,LOSS,False,NONE,2014
+10,Scott Geary,Monday Night Drinking Club,Matthew Coonrod,Gronk if You're Horny,118.5,117.0,1.5,1,0,WIN,False,NONE,2014
+10,Matthew Coonrod,Gronk if You're Horny,Scott Geary,Monday Night Drinking Club,117.0,118.5,1.5,0,1,LOSS,False,NONE,2014
+10,Bhavuk Tandon,Even the closet is bigger in TX,Athan Cheokas,Team Cheokas,48.0,108.5,60.5,0,1,LOSS,False,NONE,2014
+10,Athan Cheokas,Team Cheokas,Bhavuk Tandon,Even the closet is bigger in TX,108.5,48.0,60.5,1,0,WIN,False,NONE,2014
+10,Trond Liu,"Half Jap, Half Jew Children",Adam Kitain,Team NYC Sour D,161.0,134.5,26.5,1,0,WIN,False,NONE,2014
+10,Adam Kitain,Team NYC Sour D,Trond Liu,"Half Jap, Half Jew Children",134.5,161.0,26.5,0,1,LOSS,False,NONE,2014
+10,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,73.0,100.5,27.5,0,1,LOSS,False,NONE,2014
+10,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,100.5,73.0,27.5,1,0,WIN,False,NONE,2014
+10,Adam Swietek,Turn Down for  Watt,Zack Havanec,Geico Trap,107.0,90.5,16.5,1,0,WIN,False,NONE,2014
+10,Zack Havanec,Geico Trap,Adam Swietek,Turn Down for  Watt,90.5,107.0,16.5,0,1,LOSS,False,NONE,2014
+11,Trond Liu,"Half Jap, Half Jew Children",Adam Kitain,Team NYC Sour D,254.0,181.0,73.0,1,0,WIN,True,WINNERS_BRACKET,2014
+11,Adam Kitain,Team NYC Sour D,Trond Liu,"Half Jap, Half Jew Children",181.0,254.0,73.0,0,1,LOSS,True,WINNERS_BRACKET,2014
+11,Alex Han,Team Han,Scott Geary,Monday Night Drinking Club,127.0,290.5,163.5,0,1,LOSS,True,WINNERS_BRACKET,2014
+11,Scott Geary,Monday Night Drinking Club,Alex Han,Team Han,290.5,127.0,163.5,1,0,WIN,True,WINNERS_BRACKET,2014
+11,Athan Cheokas,Team Cheokas,Jake Wetherall,Team Dildo Gaggins,206.0,222.0,16.0,0,1,LOSS,True,WINNERS_BRACKET,2014
+11,Jake Wetherall,Team Dildo Gaggins,Athan Cheokas,Team Cheokas,222.0,206.0,16.0,1,0,WIN,True,WINNERS_BRACKET,2014
+11,Adam Swietek,Turn Down for  Watt,Zack Havanec,Geico Trap,191.5,223.0,31.5,0,1,LOSS,True,WINNERS_BRACKET,2014
+11,Zack Havanec,Geico Trap,Adam Swietek,Turn Down for  Watt,223.0,191.5,31.5,1,0,WIN,True,WINNERS_BRACKET,2014
+11,Bhavuk Tandon,Even the closet is bigger in TX,Matthew Coonrod,Gronk if You're Horny,116.0,192.0,76.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2014
+11,Matthew Coonrod,Gronk if You're Horny,Bhavuk Tandon,Even the closet is bigger in TX,192.0,116.0,76.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2014
+12,Trond Liu,"Half Jap, Half Jew Children",Scott Geary,Monday Night Drinking Club,200.0,336.0,136.0,0,1,LOSS,True,WINNERS_BRACKET,2014
+12,Scott Geary,Monday Night Drinking Club,Trond Liu,"Half Jap, Half Jew Children",336.0,200.0,136.0,1,0,WIN,True,WINNERS_BRACKET,2014
+12,Jake Wetherall,Team Dildo Gaggins,Zack Havanec,Geico Trap,216.5,213.0,3.5,1,0,WIN,True,WINNERS_BRACKET,2014
+12,Zack Havanec,Geico Trap,Jake Wetherall,Team Dildo Gaggins,213.0,216.5,3.5,0,1,LOSS,True,WINNERS_BRACKET,2014
+12,Adam Swietek,Turn Down for  Watt,Athan Cheokas,Team Cheokas,215.5,229.0,13.5,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2014
+12,Athan Cheokas,Team Cheokas,Adam Swietek,Turn Down for  Watt,229.0,215.5,13.5,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2014
+12,Alex Han,Team Han,Adam Kitain,Team NYC Sour D,187.0,163.0,24.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2014
+12,Adam Kitain,Team NYC Sour D,Alex Han,Team Han,163.0,187.0,24.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2014
+12,Bhavuk Tandon,Even the closet is bigger in TX,Matthew Coonrod,Gronk if You're Horny,149.0,237.5,88.5,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2014
+12,Matthew Coonrod,Gronk if You're Horny,Bhavuk Tandon,Even the closet is bigger in TX,237.5,149.0,88.5,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2014
+13,Scott Geary,Monday Night Drinking Club,Jake Wetherall,Team Dildo Gaggins,246.0,188.0,58.0,1,0,WIN,True,WINNERS_BRACKET,2014
+13,Jake Wetherall,Team Dildo Gaggins,Scott Geary,Monday Night Drinking Club,188.0,246.0,58.0,0,1,LOSS,True,WINNERS_BRACKET,2014
+13,Trond Liu,"Half Jap, Half Jew Children",Zack Havanec,Geico Trap,207.0,154.5,52.5,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2014
+13,Zack Havanec,Geico Trap,Trond Liu,"Half Jap, Half Jew Children",154.5,207.0,52.5,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2014
+13,Athan Cheokas,Team Cheokas,Alex Han,Team Han,178.0,165.5,12.5,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2014
+13,Alex Han,Team Han,Athan Cheokas,Team Cheokas,165.5,178.0,12.5,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2014
+13,Adam Swietek,Turn Down for  Watt,Adam Kitain,Team NYC Sour D,185.5,210.5,25.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2014
+13,Adam Kitain,Team NYC Sour D,Adam Swietek,Turn Down for  Watt,210.5,185.5,25.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2014
+13,Bhavuk Tandon,Even the closet is bigger in TX,Matthew Coonrod,Gronk if You're Horny,137.0,157.5,20.5,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2014
+13,Matthew Coonrod,Gronk if You're Horny,Bhavuk Tandon,Even the closet is bigger in TX,157.5,137.0,20.5,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2014

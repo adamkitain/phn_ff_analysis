@@ -1,0 +1,113 @@
+period,team,team_name,opponent,opponent_name,team_score,opponent_score,differential,win,loss,result,is_playoff,matchup_type,year
+1,Adam Swietek,EZ Sweezy,Zack Havanec,Northern Aggression,111.0,80.0,31.0,1,0,WIN,False,NONE,2012
+1,Zack Havanec,Northern Aggression,Adam Swietek,EZ Sweezy,80.0,111.0,31.0,0,1,LOSS,False,NONE,2012
+1,Matthew Coonrod,Team Master Baiters,Trond Liu,Ball So Hard,84.0,99.0,15.0,0,1,LOSS,False,NONE,2012
+1,Trond Liu,Ball So Hard,Matthew Coonrod,Team Master Baiters,99.0,84.0,15.0,1,0,WIN,False,NONE,2012
+1,Adam Kitain,Team Jewtopia,,,94.0,0.0,94.0,0,0,NO CONTEST,False,NONE,2012
+1,Alex Han,Team Han,Bhavuk Tandon,German Invasion,93.0,78.0,15.0,1,0,WIN,False,NONE,2012
+1,Bhavuk Tandon,German Invasion,Alex Han,Team Han,78.0,93.0,15.0,0,1,LOSS,False,NONE,2012
+1,Scott Geary,My Couch Pulls  Out but I Don't,,,79.0,0.0,79.0,0,0,NO CONTEST,False,NONE,2012
+2,Trond Liu,Ball So Hard,Adam Kitain,Team Jewtopia,97.0,112.0,15.0,0,1,LOSS,False,NONE,2012
+2,Adam Kitain,Team Jewtopia,Trond Liu,Ball So Hard,112.0,97.0,15.0,1,0,WIN,False,NONE,2012
+2,Bhavuk Tandon,German Invasion,Adam Swietek,EZ Sweezy,61.0,121.0,60.0,0,1,LOSS,False,NONE,2012
+2,Adam Swietek,EZ Sweezy,Bhavuk Tandon,German Invasion,121.0,61.0,60.0,1,0,WIN,False,NONE,2012
+2,Scott Geary,My Couch Pulls  Out but I Don't,Zack Havanec,Northern Aggression,85.0,67.0,18.0,1,0,WIN,False,NONE,2012
+2,Zack Havanec,Northern Aggression,Scott Geary,My Couch Pulls  Out but I Don't,67.0,85.0,18.0,0,1,LOSS,False,NONE,2012
+2,Alex Han,Team Han,Matthew Coonrod,Team Master Baiters,131.0,115.0,16.0,1,0,WIN,False,NONE,2012
+2,Matthew Coonrod,Team Master Baiters,Alex Han,Team Han,115.0,131.0,16.0,0,1,LOSS,False,NONE,2012
+3,Bhavuk Tandon,German Invasion,Scott Geary,My Couch Pulls  Out but I Don't,88.0,105.0,17.0,0,1,LOSS,False,NONE,2012
+3,Scott Geary,My Couch Pulls  Out but I Don't,Bhavuk Tandon,German Invasion,105.0,88.0,17.0,1,0,WIN,False,NONE,2012
+3,Trond Liu,Ball So Hard,Alex Han,Team Han,75.0,109.0,34.0,0,1,LOSS,False,NONE,2012
+3,Alex Han,Team Han,Trond Liu,Ball So Hard,109.0,75.0,34.0,1,0,WIN,False,NONE,2012
+3,Adam Swietek,EZ Sweezy,Matthew Coonrod,Team Master Baiters,81.0,80.0,1.0,1,0,WIN,False,NONE,2012
+3,Matthew Coonrod,Team Master Baiters,Adam Swietek,EZ Sweezy,80.0,81.0,1.0,0,1,LOSS,False,NONE,2012
+3,Zack Havanec,Northern Aggression,Adam Kitain,Team Jewtopia,50.0,72.0,22.0,0,1,LOSS,False,NONE,2012
+3,Adam Kitain,Team Jewtopia,Zack Havanec,Northern Aggression,72.0,50.0,22.0,1,0,WIN,False,NONE,2012
+4,Matthew Coonrod,Team Master Baiters,Adam Kitain,Team Jewtopia,96.0,131.0,35.0,0,1,LOSS,False,NONE,2012
+4,Adam Kitain,Team Jewtopia,Matthew Coonrod,Team Master Baiters,131.0,96.0,35.0,1,0,WIN,False,NONE,2012
+4,Adam Swietek,EZ Sweezy,Trond Liu,Ball So Hard,86.0,121.0,35.0,0,1,LOSS,False,NONE,2012
+4,Trond Liu,Ball So Hard,Adam Swietek,EZ Sweezy,121.0,86.0,35.0,1,0,WIN,False,NONE,2012
+4,Zack Havanec,Northern Aggression,Bhavuk Tandon,German Invasion,116.0,87.0,29.0,1,0,WIN,False,NONE,2012
+4,Bhavuk Tandon,German Invasion,Zack Havanec,Northern Aggression,87.0,116.0,29.0,0,1,LOSS,False,NONE,2012
+4,Scott Geary,My Couch Pulls  Out but I Don't,Alex Han,Team Han,69.0,77.0,8.0,0,1,LOSS,False,NONE,2012
+4,Alex Han,Team Han,Scott Geary,My Couch Pulls  Out but I Don't,77.0,69.0,8.0,1,0,WIN,False,NONE,2012
+5,Alex Han,Team Han,Adam Swietek,EZ Sweezy,133.0,112.0,21.0,1,0,WIN,False,NONE,2012
+5,Adam Swietek,EZ Sweezy,Alex Han,Team Han,112.0,133.0,21.0,0,1,LOSS,False,NONE,2012
+5,Bhavuk Tandon,German Invasion,Trond Liu,Ball So Hard,91.0,99.0,8.0,0,1,LOSS,False,NONE,2012
+5,Trond Liu,Ball So Hard,Bhavuk Tandon,German Invasion,99.0,91.0,8.0,1,0,WIN,False,NONE,2012
+5,Scott Geary,My Couch Pulls  Out but I Don't,Adam Kitain,Team Jewtopia,74.0,102.0,28.0,0,1,LOSS,False,NONE,2012
+5,Adam Kitain,Team Jewtopia,Scott Geary,My Couch Pulls  Out but I Don't,102.0,74.0,28.0,1,0,WIN,False,NONE,2012
+5,Zack Havanec,Northern Aggression,Matthew Coonrod,Team Master Baiters,111.0,88.0,23.0,1,0,WIN,False,NONE,2012
+5,Matthew Coonrod,Team Master Baiters,Zack Havanec,Northern Aggression,88.0,111.0,23.0,0,1,LOSS,False,NONE,2012
+6,Zack Havanec,Northern Aggression,Trond Liu,Ball So Hard,69.0,90.0,21.0,0,1,LOSS,False,NONE,2012
+6,Trond Liu,Ball So Hard,Zack Havanec,Northern Aggression,90.0,69.0,21.0,1,0,WIN,False,NONE,2012
+6,Adam Kitain,Team Jewtopia,Bhavuk Tandon,German Invasion,95.0,108.0,13.0,0,1,LOSS,False,NONE,2012
+6,Bhavuk Tandon,German Invasion,Adam Kitain,Team Jewtopia,108.0,95.0,13.0,1,0,WIN,False,NONE,2012
+6,Scott Geary,My Couch Pulls  Out but I Don't,Alex Han,Team Han,75.0,93.0,18.0,0,1,LOSS,False,NONE,2012
+6,Alex Han,Team Han,Scott Geary,My Couch Pulls  Out but I Don't,93.0,75.0,18.0,1,0,WIN,False,NONE,2012
+6,Adam Swietek,EZ Sweezy,Matthew Coonrod,Team Master Baiters,62.0,91.0,29.0,0,1,LOSS,False,NONE,2012
+6,Matthew Coonrod,Team Master Baiters,Adam Swietek,EZ Sweezy,91.0,62.0,29.0,1,0,WIN,False,NONE,2012
+7,Bhavuk Tandon,German Invasion,Zack Havanec,Northern Aggression,98.0,77.0,21.0,1,0,WIN,False,NONE,2012
+7,Zack Havanec,Northern Aggression,Bhavuk Tandon,German Invasion,77.0,98.0,21.0,0,1,LOSS,False,NONE,2012
+7,Alex Han,Team Han,Adam Kitain,Team Jewtopia,70.0,95.0,25.0,0,1,LOSS,False,NONE,2012
+7,Adam Kitain,Team Jewtopia,Alex Han,Team Han,95.0,70.0,25.0,1,0,WIN,False,NONE,2012
+7,Matthew Coonrod,Team Master Baiters,Scott Geary,My Couch Pulls  Out but I Don't,112.0,87.0,25.0,1,0,WIN,False,NONE,2012
+7,Scott Geary,My Couch Pulls  Out but I Don't,Matthew Coonrod,Team Master Baiters,87.0,112.0,25.0,0,1,LOSS,False,NONE,2012
+7,Adam Swietek,EZ Sweezy,,,59.0,0.0,59.0,0,0,NO CONTEST,False,NONE,2012
+7,Trond Liu,Ball So Hard,,,83.0,0.0,83.0,0,0,NO CONTEST,False,NONE,2012
+8,Zack Havanec,Northern Aggression,Alex Han,Team Han,92.0,76.0,16.0,1,0,WIN,False,NONE,2012
+8,Alex Han,Team Han,Zack Havanec,Northern Aggression,76.0,92.0,16.0,0,1,LOSS,False,NONE,2012
+8,Adam Kitain,Team Jewtopia,Trond Liu,Ball So Hard,47.0,82.0,35.0,0,1,LOSS,False,NONE,2012
+8,Trond Liu,Ball So Hard,Adam Kitain,Team Jewtopia,82.0,47.0,35.0,1,0,WIN,False,NONE,2012
+8,Scott Geary,My Couch Pulls  Out but I Don't,Adam Swietek,EZ Sweezy,102.0,111.0,9.0,0,1,LOSS,False,NONE,2012
+8,Adam Swietek,EZ Sweezy,Scott Geary,My Couch Pulls  Out but I Don't,111.0,102.0,9.0,1,0,WIN,False,NONE,2012
+8,Bhavuk Tandon,German Invasion,Matthew Coonrod,Team Master Baiters,67.0,80.0,13.0,0,1,LOSS,False,NONE,2012
+8,Matthew Coonrod,Team Master Baiters,Bhavuk Tandon,German Invasion,80.0,67.0,13.0,1,0,WIN,False,NONE,2012
+9,Matthew Coonrod,Team Master Baiters,,,99.0,0.0,99.0,0,0,NO CONTEST,False,NONE,2012
+9,Adam Swietek,EZ Sweezy,Alex Han,Team Han,130.0,78.0,52.0,1,0,WIN,False,NONE,2012
+9,Alex Han,Team Han,Adam Swietek,EZ Sweezy,78.0,130.0,52.0,0,1,LOSS,False,NONE,2012
+9,Trond Liu,Ball So Hard,Bhavuk Tandon,German Invasion,119.0,116.0,3.0,1,0,WIN,False,NONE,2012
+9,Bhavuk Tandon,German Invasion,Trond Liu,Ball So Hard,116.0,119.0,3.0,0,1,LOSS,False,NONE,2012
+9,Scott Geary,My Couch Pulls  Out but I Don't,Adam Kitain,Team Jewtopia,88.0,95.0,7.0,0,1,LOSS,False,NONE,2012
+9,Adam Kitain,Team Jewtopia,Scott Geary,My Couch Pulls  Out but I Don't,95.0,88.0,7.0,1,0,WIN,False,NONE,2012
+9,Zack Havanec,Northern Aggression,,,74.0,0.0,74.0,0,0,NO CONTEST,False,NONE,2012
+10,Adam Swietek,EZ Sweezy,Adam Kitain,Team Jewtopia,119.0,94.0,25.0,1,0,WIN,False,NONE,2012
+10,Adam Kitain,Team Jewtopia,Adam Swietek,EZ Sweezy,94.0,119.0,25.0,0,1,LOSS,False,NONE,2012
+10,Trond Liu,Ball So Hard,Matthew Coonrod,Team Master Baiters,84.0,93.0,9.0,0,1,LOSS,False,NONE,2012
+10,Matthew Coonrod,Team Master Baiters,Trond Liu,Ball So Hard,93.0,84.0,9.0,1,0,WIN,False,NONE,2012
+10,Zack Havanec,Northern Aggression,Scott Geary,My Couch Pulls  Out but I Don't,71.0,88.0,17.0,0,1,LOSS,False,NONE,2012
+10,Scott Geary,My Couch Pulls  Out but I Don't,Zack Havanec,Northern Aggression,88.0,71.0,17.0,1,0,WIN,False,NONE,2012
+10,Alex Han,Team Han,,,76.0,0.0,76.0,0,0,NO CONTEST,False,NONE,2012
+10,Bhavuk Tandon,German Invasion,,,84.0,0.0,84.0,0,0,NO CONTEST,False,NONE,2012
+11,Trond Liu,Ball So Hard,Scott Geary,My Couch Pulls  Out but I Don't,108.0,77.0,31.0,1,0,WIN,False,NONE,2012
+11,Scott Geary,My Couch Pulls  Out but I Don't,Trond Liu,Ball So Hard,77.0,108.0,31.0,0,1,LOSS,False,NONE,2012
+11,Adam Swietek,EZ Sweezy,Bhavuk Tandon,German Invasion,75.0,68.0,7.0,1,0,WIN,False,NONE,2012
+11,Bhavuk Tandon,German Invasion,Adam Swietek,EZ Sweezy,68.0,75.0,7.0,0,1,LOSS,False,NONE,2012
+11,Matthew Coonrod,Team Master Baiters,Adam Kitain,Team Jewtopia,92.0,58.0,34.0,1,0,WIN,False,NONE,2012
+11,Adam Kitain,Team Jewtopia,Matthew Coonrod,Team Master Baiters,58.0,92.0,34.0,0,1,LOSS,False,NONE,2012
+11,Zack Havanec,Northern Aggression,Alex Han,Team Han,85.0,102.0,17.0,0,1,LOSS,False,NONE,2012
+11,Alex Han,Team Han,Zack Havanec,Northern Aggression,102.0,85.0,17.0,1,0,WIN,False,NONE,2012
+12,Adam Swietek,EZ Sweezy,,,222.0,0.0,222.0,0,0,NO CONTEST,True,WINNERS_BRACKET,2012
+12,Alex Han,Team Han,Matthew Coonrod,Team Master Baiters,212.0,209.0,3.0,1,0,WIN,True,WINNERS_BRACKET,2012
+12,Matthew Coonrod,Team Master Baiters,Alex Han,Team Han,209.0,212.0,3.0,0,1,LOSS,True,WINNERS_BRACKET,2012
+12,Trond Liu,Ball So Hard,Scott Geary,My Couch Pulls  Out but I Don't,158.0,158.0,0.0,1,0,WIN,True,WINNERS_BRACKET,2012
+12,Scott Geary,My Couch Pulls  Out but I Don't,Trond Liu,Ball So Hard,158.0,158.0,0.0,0,1,LOSS,True,WINNERS_BRACKET,2012
+12,Adam Kitain,Team Jewtopia,,,174.0,0.0,174.0,0,0,NO CONTEST,True,WINNERS_BRACKET,2012
+12,Zack Havanec,Northern Aggression,Bhavuk Tandon,German Invasion,153.0,168.0,15.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2012
+12,Bhavuk Tandon,German Invasion,Zack Havanec,Northern Aggression,168.0,153.0,15.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2012
+13,Adam Swietek,EZ Sweezy,Alex Han,Team Han,191.0,160.0,31.0,1,0,WIN,True,WINNERS_BRACKET,2012
+13,Alex Han,Team Han,Adam Swietek,EZ Sweezy,160.0,191.0,31.0,0,1,LOSS,True,WINNERS_BRACKET,2012
+13,Adam Kitain,Team Jewtopia,Trond Liu,Ball So Hard,188.0,239.0,51.0,0,1,LOSS,True,WINNERS_BRACKET,2012
+13,Trond Liu,Ball So Hard,Adam Kitain,Team Jewtopia,239.0,188.0,51.0,1,0,WIN,True,WINNERS_BRACKET,2012
+13,Matthew Coonrod,Team Master Baiters,Scott Geary,My Couch Pulls  Out but I Don't,207.0,145.0,62.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2012
+13,Scott Geary,My Couch Pulls  Out but I Don't,Matthew Coonrod,Team Master Baiters,145.0,207.0,62.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2012
+13,Zack Havanec,Northern Aggression,Bhavuk Tandon,German Invasion,248.0,126.0,122.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2012
+13,Bhavuk Tandon,German Invasion,Zack Havanec,Northern Aggression,126.0,248.0,122.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2012
+14,Adam Swietek,EZ Sweezy,Trond Liu,Ball So Hard,223.0,193.0,30.0,1,0,WIN,True,WINNERS_BRACKET,2012
+14,Trond Liu,Ball So Hard,Adam Swietek,EZ Sweezy,193.0,223.0,30.0,0,1,LOSS,True,WINNERS_BRACKET,2012
+14,Adam Kitain,Team Jewtopia,Alex Han,Team Han,184.0,196.0,12.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2012
+14,Alex Han,Team Han,Adam Kitain,Team Jewtopia,196.0,184.0,12.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2012
+14,Matthew Coonrod,Team Master Baiters,Scott Geary,My Couch Pulls  Out but I Don't,198.0,150.0,48.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2012
+14,Scott Geary,My Couch Pulls  Out but I Don't,Matthew Coonrod,Team Master Baiters,150.0,198.0,48.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2012
+14,Zack Havanec,Northern Aggression,Bhavuk Tandon,German Invasion,214.0,154.0,60.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2012
+14,Bhavuk Tandon,German Invasion,Zack Havanec,Northern Aggression,154.0,214.0,60.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2012

@@ -1,0 +1,151 @@
+period,team,team_name,opponent,opponent_name,team_score,opponent_score,differential,win,loss,result,is_playoff,matchup_type,year
+1,Alex Han,Team Han,Athan Cheokas,Artful Dodger,103.5,88.5,15.0,1,0,WIN,False,NONE,2021
+1,Athan Cheokas,Artful Dodger,Alex Han,Team Han,88.5,103.5,15.0,0,1,LOSS,False,NONE,2021
+1,Trond Liu,Strip Club Talent Scouts,Scott Geary,Kip Schwartz,159.5,112.0,47.5,1,0,WIN,False,NONE,2021
+1,Scott Geary,Kip Schwartz,Trond Liu,Strip Club Talent Scouts,112.0,159.5,47.5,0,1,LOSS,False,NONE,2021
+1,Adam Swietek,EZ Sweezy,Adam Kitain,Team Miles High,105.0,103.5,1.5,1,0,WIN,False,NONE,2021
+1,Adam Kitain,Team Miles High,Adam Swietek,EZ Sweezy,103.5,105.0,1.5,0,1,LOSS,False,NONE,2021
+1,Zack Havanec,Geico Trap,Jake Wetherall,Team Dildo Gaggins,137.5,114.5,23.0,1,0,WIN,False,NONE,2021
+1,Jake Wetherall,Team Dildo Gaggins,Zack Havanec,Geico Trap,114.5,137.5,23.0,0,1,LOSS,False,NONE,2021
+1,Matthew Coonrod,Coon Daddy,Bhavuk Tandon,TheBetter brown brother,108.5,63.5,45.0,1,0,WIN,False,NONE,2021
+1,Bhavuk Tandon,TheBetter brown brother,Matthew Coonrod,Coon Daddy,63.5,108.5,45.0,0,1,LOSS,False,NONE,2021
+2,Jake Wetherall,Team Dildo Gaggins,Athan Cheokas,Artful Dodger,91.0,87.5,3.5,1,0,WIN,False,NONE,2021
+2,Athan Cheokas,Artful Dodger,Jake Wetherall,Team Dildo Gaggins,87.5,91.0,3.5,0,1,LOSS,False,NONE,2021
+2,Adam Kitain,Team Miles High,Matthew Coonrod,Coon Daddy,102.0,134.5,32.5,0,1,LOSS,False,NONE,2021
+2,Matthew Coonrod,Coon Daddy,Adam Kitain,Team Miles High,134.5,102.0,32.5,1,0,WIN,False,NONE,2021
+2,Scott Geary,Kip Schwartz,Alex Han,Team Han,104.5,109.5,5.0,0,1,LOSS,False,NONE,2021
+2,Alex Han,Team Han,Scott Geary,Kip Schwartz,109.5,104.5,5.0,1,0,WIN,False,NONE,2021
+2,Zack Havanec,Geico Trap,Bhavuk Tandon,TheBetter brown brother,108.0,147.0,39.0,0,1,LOSS,False,NONE,2021
+2,Bhavuk Tandon,TheBetter brown brother,Zack Havanec,Geico Trap,147.0,108.0,39.0,1,0,WIN,False,NONE,2021
+2,Adam Swietek,EZ Sweezy,Trond Liu,Strip Club Talent Scouts,126.0,90.5,35.5,1,0,WIN,False,NONE,2021
+2,Trond Liu,Strip Club Talent Scouts,Adam Swietek,EZ Sweezy,90.5,126.0,35.5,0,1,LOSS,False,NONE,2021
+3,Scott Geary,Kip Schwartz,Athan Cheokas,Artful Dodger,137.5,86.0,51.5,1,0,WIN,False,NONE,2021
+3,Athan Cheokas,Artful Dodger,Scott Geary,Kip Schwartz,86.0,137.5,51.5,0,1,LOSS,False,NONE,2021
+3,Adam Kitain,Team Miles High,Bhavuk Tandon,TheBetter brown brother,76.0,101.0,25.0,0,1,LOSS,False,NONE,2021
+3,Bhavuk Tandon,TheBetter brown brother,Adam Kitain,Team Miles High,101.0,76.0,25.0,1,0,WIN,False,NONE,2021
+3,Matthew Coonrod,Coon Daddy,Alex Han,Team Han,115.0,139.5,24.5,0,1,LOSS,False,NONE,2021
+3,Alex Han,Team Han,Matthew Coonrod,Coon Daddy,139.5,115.0,24.5,1,0,WIN,False,NONE,2021
+3,Adam Swietek,EZ Sweezy,Zack Havanec,Geico Trap,125.5,130.5,5.0,0,1,LOSS,False,NONE,2021
+3,Zack Havanec,Geico Trap,Adam Swietek,EZ Sweezy,130.5,125.5,5.0,1,0,WIN,False,NONE,2021
+3,Trond Liu,Strip Club Talent Scouts,Jake Wetherall,Team Dildo Gaggins,76.5,101.0,24.5,0,1,LOSS,False,NONE,2021
+3,Jake Wetherall,Team Dildo Gaggins,Trond Liu,Strip Club Talent Scouts,101.0,76.5,24.5,1,0,WIN,False,NONE,2021
+4,Trond Liu,Strip Club Talent Scouts,Athan Cheokas,Artful Dodger,128.0,132.0,4.0,0,1,LOSS,False,NONE,2021
+4,Athan Cheokas,Artful Dodger,Trond Liu,Strip Club Talent Scouts,132.0,128.0,4.0,1,0,WIN,False,NONE,2021
+4,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,91.5,77.5,14.0,1,0,WIN,False,NONE,2021
+4,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,77.5,91.5,14.0,0,1,LOSS,False,NONE,2021
+4,Adam Swietek,EZ Sweezy,Bhavuk Tandon,TheBetter brown brother,145.5,111.5,34.0,1,0,WIN,False,NONE,2021
+4,Bhavuk Tandon,TheBetter brown brother,Adam Swietek,EZ Sweezy,111.5,145.5,34.0,0,1,LOSS,False,NONE,2021
+4,Zack Havanec,Geico Trap,Matthew Coonrod,Coon Daddy,64.5,105.0,40.5,0,1,LOSS,False,NONE,2021
+4,Matthew Coonrod,Coon Daddy,Zack Havanec,Geico Trap,105.0,64.5,40.5,1,0,WIN,False,NONE,2021
+4,Adam Kitain,Team Miles High,Scott Geary,Kip Schwartz,118.5,98.0,20.5,1,0,WIN,False,NONE,2021
+4,Scott Geary,Kip Schwartz,Adam Kitain,Team Miles High,98.0,118.5,20.5,0,1,LOSS,False,NONE,2021
+5,Scott Geary,Kip Schwartz,Jake Wetherall,Team Dildo Gaggins,111.0,166.0,55.0,0,1,LOSS,False,NONE,2021
+5,Jake Wetherall,Team Dildo Gaggins,Scott Geary,Kip Schwartz,166.0,111.0,55.0,1,0,WIN,False,NONE,2021
+5,Bhavuk Tandon,TheBetter brown brother,Athan Cheokas,Artful Dodger,123.0,162.0,39.0,0,1,LOSS,False,NONE,2021
+5,Athan Cheokas,Artful Dodger,Bhavuk Tandon,TheBetter brown brother,162.0,123.0,39.0,1,0,WIN,False,NONE,2021
+5,Trond Liu,Strip Club Talent Scouts,Alex Han,Team Han,124.5,99.5,25.0,1,0,WIN,False,NONE,2021
+5,Alex Han,Team Han,Trond Liu,Strip Club Talent Scouts,99.5,124.5,25.0,0,1,LOSS,False,NONE,2021
+5,Adam Kitain,Team Miles High,Zack Havanec,Geico Trap,104.5,133.0,28.5,0,1,LOSS,False,NONE,2021
+5,Zack Havanec,Geico Trap,Adam Kitain,Team Miles High,133.0,104.5,28.5,1,0,WIN,False,NONE,2021
+5,Adam Swietek,EZ Sweezy,Matthew Coonrod,Coon Daddy,76.0,119.0,43.0,0,1,LOSS,False,NONE,2021
+5,Matthew Coonrod,Coon Daddy,Adam Swietek,EZ Sweezy,119.0,76.0,43.0,1,0,WIN,False,NONE,2021
+6,Zack Havanec,Geico Trap,Alex Han,Team Han,106.5,114.0,7.5,0,1,LOSS,False,NONE,2021
+6,Alex Han,Team Han,Zack Havanec,Geico Trap,114.0,106.5,7.5,1,0,WIN,False,NONE,2021
+6,Bhavuk Tandon,TheBetter brown brother,Trond Liu,Strip Club Talent Scouts,121.0,111.0,10.0,1,0,WIN,False,NONE,2021
+6,Trond Liu,Strip Club Talent Scouts,Bhavuk Tandon,TheBetter brown brother,111.0,121.0,10.0,0,1,LOSS,False,NONE,2021
+6,Adam Swietek,EZ Sweezy,Scott Geary,Kip Schwartz,81.0,121.0,40.0,0,1,LOSS,False,NONE,2021
+6,Scott Geary,Kip Schwartz,Adam Swietek,EZ Sweezy,121.0,81.0,40.0,1,0,WIN,False,NONE,2021
+6,Matthew Coonrod,Coon Daddy,Athan Cheokas,Artful Dodger,118.0,131.0,13.0,0,1,LOSS,False,NONE,2021
+6,Athan Cheokas,Artful Dodger,Matthew Coonrod,Coon Daddy,131.0,118.0,13.0,1,0,WIN,False,NONE,2021
+6,Adam Kitain,Team Miles High,Jake Wetherall,Team Dildo Gaggins,95.0,133.5,38.5,0,1,LOSS,False,NONE,2021
+6,Jake Wetherall,Team Dildo Gaggins,Adam Kitain,Team Miles High,133.5,95.0,38.5,1,0,WIN,False,NONE,2021
+7,Adam Kitain,Team Miles High,Alex Han,Team Han,78.5,108.0,29.5,0,1,LOSS,False,NONE,2021
+7,Alex Han,Team Han,Adam Kitain,Team Miles High,108.0,78.5,29.5,1,0,WIN,False,NONE,2021
+7,Matthew Coonrod,Coon Daddy,Trond Liu,Strip Club Talent Scouts,123.0,117.0,6.0,1,0,WIN,False,NONE,2021
+7,Trond Liu,Strip Club Talent Scouts,Matthew Coonrod,Coon Daddy,117.0,123.0,6.0,0,1,LOSS,False,NONE,2021
+7,Zack Havanec,Geico Trap,Athan Cheokas,Artful Dodger,88.0,123.0,35.0,0,1,LOSS,False,NONE,2021
+7,Athan Cheokas,Artful Dodger,Zack Havanec,Geico Trap,123.0,88.0,35.0,1,0,WIN,False,NONE,2021
+7,Bhavuk Tandon,TheBetter brown brother,Scott Geary,Kip Schwartz,155.0,65.0,90.0,1,0,WIN,False,NONE,2021
+7,Scott Geary,Kip Schwartz,Bhavuk Tandon,TheBetter brown brother,65.0,155.0,90.0,0,1,LOSS,False,NONE,2021
+7,Adam Swietek,EZ Sweezy,Jake Wetherall,Team Dildo Gaggins,68.5,138.0,69.5,0,1,LOSS,False,NONE,2021
+7,Jake Wetherall,Team Dildo Gaggins,Adam Swietek,EZ Sweezy,138.0,68.5,69.5,1,0,WIN,False,NONE,2021
+8,Adam Swietek,EZ Sweezy,Alex Han,Team Han,97.5,141.5,44.0,0,1,LOSS,False,NONE,2021
+8,Alex Han,Team Han,Adam Swietek,EZ Sweezy,141.5,97.5,44.0,1,0,WIN,False,NONE,2021
+8,Bhavuk Tandon,TheBetter brown brother,Jake Wetherall,Team Dildo Gaggins,78.0,119.5,41.5,0,1,LOSS,False,NONE,2021
+8,Jake Wetherall,Team Dildo Gaggins,Bhavuk Tandon,TheBetter brown brother,119.5,78.0,41.5,1,0,WIN,False,NONE,2021
+8,Adam Kitain,Team Miles High,Athan Cheokas,Artful Dodger,102.5,94.5,8.0,1,0,WIN,False,NONE,2021
+8,Athan Cheokas,Artful Dodger,Adam Kitain,Team Miles High,94.5,102.5,8.0,0,1,LOSS,False,NONE,2021
+8,Matthew Coonrod,Coon Daddy,Scott Geary,Kip Schwartz,85.5,82.5,3.0,1,0,WIN,False,NONE,2021
+8,Scott Geary,Kip Schwartz,Matthew Coonrod,Coon Daddy,82.5,85.5,3.0,0,1,LOSS,False,NONE,2021
+8,Zack Havanec,Geico Trap,Trond Liu,Strip Club Talent Scouts,83.5,100.0,16.5,0,1,LOSS,False,NONE,2021
+8,Trond Liu,Strip Club Talent Scouts,Zack Havanec,Geico Trap,100.0,83.5,16.5,1,0,WIN,False,NONE,2021
+9,Athan Cheokas,Artful Dodger,Alex Han,Team Han,66.0,64.5,1.5,1,0,WIN,False,NONE,2021
+9,Alex Han,Team Han,Athan Cheokas,Artful Dodger,64.5,66.0,1.5,0,1,LOSS,False,NONE,2021
+9,Matthew Coonrod,Coon Daddy,Jake Wetherall,Team Dildo Gaggins,106.0,88.5,17.5,1,0,WIN,False,NONE,2021
+9,Jake Wetherall,Team Dildo Gaggins,Matthew Coonrod,Coon Daddy,88.5,106.0,17.5,0,1,LOSS,False,NONE,2021
+9,Bhavuk Tandon,TheBetter brown brother,Zack Havanec,Geico Trap,96.0,101.5,5.5,0,1,LOSS,False,NONE,2021
+9,Zack Havanec,Geico Trap,Bhavuk Tandon,TheBetter brown brother,101.5,96.0,5.5,1,0,WIN,False,NONE,2021
+9,Adam Kitain,Team Miles High,Adam Swietek,EZ Sweezy,110.5,121.0,10.5,0,1,LOSS,False,NONE,2021
+9,Adam Swietek,EZ Sweezy,Adam Kitain,Team Miles High,121.0,110.5,10.5,1,0,WIN,False,NONE,2021
+9,Scott Geary,Kip Schwartz,Trond Liu,Strip Club Talent Scouts,72.0,96.0,24.0,0,1,LOSS,False,NONE,2021
+9,Trond Liu,Strip Club Talent Scouts,Scott Geary,Kip Schwartz,96.0,72.0,24.0,1,0,WIN,False,NONE,2021
+10,Alex Han,Team Han,Scott Geary,Kip Schwartz,80.0,92.5,12.5,0,1,LOSS,False,NONE,2021
+10,Scott Geary,Kip Schwartz,Alex Han,Team Han,92.5,80.0,12.5,1,0,WIN,False,NONE,2021
+10,Adam Kitain,Team Miles High,Trond Liu,Strip Club Talent Scouts,115.5,89.0,26.5,1,0,WIN,False,NONE,2021
+10,Trond Liu,Strip Club Talent Scouts,Adam Kitain,Team Miles High,89.0,115.5,26.5,0,1,LOSS,False,NONE,2021
+10,Bhavuk Tandon,TheBetter brown brother,Matthew Coonrod,Coon Daddy,72.0,102.5,30.5,0,1,LOSS,False,NONE,2021
+10,Matthew Coonrod,Coon Daddy,Bhavuk Tandon,TheBetter brown brother,102.5,72.0,30.5,1,0,WIN,False,NONE,2021
+10,Zack Havanec,Geico Trap,Adam Swietek,EZ Sweezy,100.0,93.5,6.5,1,0,WIN,False,NONE,2021
+10,Adam Swietek,EZ Sweezy,Zack Havanec,Geico Trap,93.5,100.0,6.5,0,1,LOSS,False,NONE,2021
+10,Athan Cheokas,Artful Dodger,Jake Wetherall,Team Dildo Gaggins,161.5,106.5,55.0,1,0,WIN,False,NONE,2021
+10,Jake Wetherall,Team Dildo Gaggins,Athan Cheokas,Artful Dodger,106.5,161.5,55.0,0,1,LOSS,False,NONE,2021
+11,Zack Havanec,Geico Trap,Adam Kitain,Team Miles High,118.0,93.5,24.5,1,0,WIN,False,NONE,2021
+11,Adam Kitain,Team Miles High,Zack Havanec,Geico Trap,93.5,118.0,24.5,0,1,LOSS,False,NONE,2021
+11,Athan Cheokas,Artful Dodger,Scott Geary,Kip Schwartz,81.0,92.0,11.0,0,1,LOSS,False,NONE,2021
+11,Scott Geary,Kip Schwartz,Athan Cheokas,Artful Dodger,92.0,81.0,11.0,1,0,WIN,False,NONE,2021
+11,Bhavuk Tandon,TheBetter brown brother,Alex Han,Team Han,137.5,106.5,31.0,1,0,WIN,False,NONE,2021
+11,Alex Han,Team Han,Bhavuk Tandon,TheBetter brown brother,106.5,137.5,31.0,0,1,LOSS,False,NONE,2021
+11,Jake Wetherall,Team Dildo Gaggins,Trond Liu,Strip Club Talent Scouts,145.0,52.5,92.5,1,0,WIN,False,NONE,2021
+11,Trond Liu,Strip Club Talent Scouts,Jake Wetherall,Team Dildo Gaggins,52.5,145.0,92.5,0,1,LOSS,False,NONE,2021
+11,Matthew Coonrod,Coon Daddy,Adam Swietek,EZ Sweezy,144.5,119.5,25.0,1,0,WIN,False,NONE,2021
+11,Adam Swietek,EZ Sweezy,Matthew Coonrod,Coon Daddy,119.5,144.5,25.0,0,1,LOSS,False,NONE,2021
+12,Zack Havanec,Geico Trap,Scott Geary,Kip Schwartz,73.5,95.5,22.0,0,1,LOSS,False,NONE,2021
+12,Scott Geary,Kip Schwartz,Zack Havanec,Geico Trap,95.5,73.5,22.0,1,0,WIN,False,NONE,2021
+12,Matthew Coonrod,Coon Daddy,Adam Kitain,Team Miles High,91.5,45.5,46.0,1,0,WIN,False,NONE,2021
+12,Adam Kitain,Team Miles High,Matthew Coonrod,Coon Daddy,45.5,91.5,46.0,0,1,LOSS,False,NONE,2021
+12,Athan Cheokas,Artful Dodger,Trond Liu,Strip Club Talent Scouts,87.0,136.5,49.5,0,1,LOSS,False,NONE,2021
+12,Trond Liu,Strip Club Talent Scouts,Athan Cheokas,Artful Dodger,136.5,87.0,49.5,1,0,WIN,False,NONE,2021
+12,Bhavuk Tandon,TheBetter brown brother,Adam Swietek,EZ Sweezy,144.5,124.0,20.5,1,0,WIN,False,NONE,2021
+12,Adam Swietek,EZ Sweezy,Bhavuk Tandon,TheBetter brown brother,124.0,144.5,20.5,0,1,LOSS,False,NONE,2021
+12,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,114.0,81.5,32.5,1,0,WIN,False,NONE,2021
+12,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,81.5,114.0,32.5,0,1,LOSS,False,NONE,2021
+13,Adam Swietek,EZ Sweezy,Athan Cheokas,Artful Dodger,112.5,76.0,36.5,1,0,WIN,False,NONE,2021
+13,Athan Cheokas,Artful Dodger,Adam Swietek,EZ Sweezy,76.0,112.5,36.5,0,1,LOSS,False,NONE,2021
+13,Matthew Coonrod,Coon Daddy,Zack Havanec,Geico Trap,93.5,118.5,25.0,0,1,LOSS,False,NONE,2021
+13,Zack Havanec,Geico Trap,Matthew Coonrod,Coon Daddy,118.5,93.5,25.0,1,0,WIN,False,NONE,2021
+13,Alex Han,Team Han,Trond Liu,Strip Club Talent Scouts,114.5,107.5,7.0,1,0,WIN,False,NONE,2021
+13,Trond Liu,Strip Club Talent Scouts,Alex Han,Team Han,107.5,114.5,7.0,0,1,LOSS,False,NONE,2021
+13,Jake Wetherall,Team Dildo Gaggins,Scott Geary,Kip Schwartz,133.0,109.0,24.0,1,0,WIN,False,NONE,2021
+13,Scott Geary,Kip Schwartz,Jake Wetherall,Team Dildo Gaggins,109.0,133.0,24.0,0,1,LOSS,False,NONE,2021
+13,Bhavuk Tandon,TheBetter brown brother,Adam Kitain,Team Miles High,93.5,113.0,19.5,0,1,LOSS,False,NONE,2021
+13,Adam Kitain,Team Miles High,Bhavuk Tandon,TheBetter brown brother,113.0,93.5,19.5,1,0,WIN,False,NONE,2021
+14,Matthew Coonrod,Coon Daddy,Zack Havanec,Geico Trap,158.0,265.5,107.5,0,1,LOSS,True,WINNERS_BRACKET,2021
+14,Zack Havanec,Geico Trap,Matthew Coonrod,Coon Daddy,265.5,158.0,107.5,1,0,WIN,True,WINNERS_BRACKET,2021
+14,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,232.0,235.5,3.5,0,1,LOSS,True,WINNERS_BRACKET,2021
+14,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,235.5,232.0,3.5,1,0,WIN,True,WINNERS_BRACKET,2021
+14,Bhavuk Tandon,TheBetter brown brother,Athan Cheokas,Artful Dodger,96.0,257.0,161.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2021
+14,Athan Cheokas,Artful Dodger,Bhavuk Tandon,TheBetter brown brother,257.0,96.0,161.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2021
+14,Trond Liu,Strip Club Talent Scouts,Scott Geary,Kip Schwartz,150.0,168.0,18.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2021
+14,Scott Geary,Kip Schwartz,Trond Liu,Strip Club Talent Scouts,168.0,150.0,18.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2021
+14,Adam Swietek,EZ Sweezy,Adam Kitain,Team Miles High,203.0,219.5,16.5,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2021
+14,Adam Kitain,Team Miles High,Adam Swietek,EZ Sweezy,219.5,203.0,16.5,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2021
+15,Alex Han,Team Han,Zack Havanec,Geico Trap,224.0,176.0,48.0,1,0,WIN,True,WINNERS_BRACKET,2021
+15,Zack Havanec,Geico Trap,Alex Han,Team Han,176.0,224.0,48.0,0,1,LOSS,True,WINNERS_BRACKET,2021
+15,Matthew Coonrod,Coon Daddy,Jake Wetherall,Team Dildo Gaggins,176.5,173.0,3.5,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2021
+15,Jake Wetherall,Team Dildo Gaggins,Matthew Coonrod,Coon Daddy,173.0,176.5,3.5,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2021
+15,Athan Cheokas,Artful Dodger,Bhavuk Tandon,TheBetter brown brother,280.0,192.0,88.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2021
+15,Bhavuk Tandon,TheBetter brown brother,Athan Cheokas,Artful Dodger,192.0,280.0,88.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2021
+15,Adam Kitain,Team Miles High,Scott Geary,Kip Schwartz,131.5,169.0,37.5,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2021
+15,Scott Geary,Kip Schwartz,Adam Kitain,Team Miles High,169.0,131.5,37.5,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2021
+15,Adam Swietek,EZ Sweezy,Trond Liu,Strip Club Talent Scouts,215.5,219.0,3.5,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2021
+15,Trond Liu,Strip Club Talent Scouts,Adam Swietek,EZ Sweezy,219.0,215.5,3.5,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2021

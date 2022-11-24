@@ -1,0 +1,131 @@
+period,team,team_name,opponent,opponent_name,team_score,opponent_score,differential,win,loss,result,is_playoff,matchup_type,year
+1,Adam Kitain,Team Mile High,Alex Han,Team Han,133.0,107.0,26.0,1,0,WIN,False,NONE,2020
+1,Alex Han,Team Han,Adam Kitain,Team Mile High,107.0,133.0,26.0,0,1,LOSS,False,NONE,2020
+1,Adam Swietek,EZ Sweezy,Matthew Coonrod,Coon Daddy,135.5,119.0,16.5,1,0,WIN,False,NONE,2020
+1,Matthew Coonrod,Coon Daddy,Adam Swietek,EZ Sweezy,119.0,135.5,16.5,0,1,LOSS,False,NONE,2020
+1,Trond Liu,Mile high Hairline,Jake Wetherall,Team Dildo Gaggins,125.0,83.0,42.0,1,0,WIN,False,NONE,2020
+1,Jake Wetherall,Team Dildo Gaggins,Trond Liu,Mile high Hairline,83.0,125.0,42.0,0,1,LOSS,False,NONE,2020
+1,Scott Geary,Kip Schwartz,Bhavuk Tandon,Main st vs Wall st,107.0,92.5,14.5,1,0,WIN,False,NONE,2020
+1,Bhavuk Tandon,Main st vs Wall st,Scott Geary,Kip Schwartz,92.5,107.0,14.5,0,1,LOSS,False,NONE,2020
+1,Athan Cheokas,Artful Dodger,Zack Havanec,Geico Trap,112.5,132.5,20.0,0,1,LOSS,False,NONE,2020
+1,Zack Havanec,Geico Trap,Athan Cheokas,Artful Dodger,132.5,112.5,20.0,1,0,WIN,False,NONE,2020
+2,Adam Swietek,EZ Sweezy,Bhavuk Tandon,Main st vs Wall st,95.0,101.0,6.0,0,1,LOSS,False,NONE,2020
+2,Bhavuk Tandon,Main st vs Wall st,Adam Swietek,EZ Sweezy,101.0,95.0,6.0,1,0,WIN,False,NONE,2020
+2,Scott Geary,Kip Schwartz,Jake Wetherall,Team Dildo Gaggins,110.0,100.0,10.0,1,0,WIN,False,NONE,2020
+2,Jake Wetherall,Team Dildo Gaggins,Scott Geary,Kip Schwartz,100.0,110.0,10.0,0,1,LOSS,False,NONE,2020
+2,Athan Cheokas,Artful Dodger,Alex Han,Team Han,133.0,90.5,42.5,1,0,WIN,False,NONE,2020
+2,Alex Han,Team Han,Athan Cheokas,Artful Dodger,90.5,133.0,42.5,0,1,LOSS,False,NONE,2020
+2,Trond Liu,Mile high Hairline,Zack Havanec,Geico Trap,147.0,110.0,37.0,1,0,WIN,False,NONE,2020
+2,Zack Havanec,Geico Trap,Trond Liu,Mile high Hairline,110.0,147.0,37.0,0,1,LOSS,False,NONE,2020
+2,Adam Kitain,Team Mile High,Matthew Coonrod,Coon Daddy,154.5,92.0,62.5,1,0,WIN,False,NONE,2020
+2,Matthew Coonrod,Coon Daddy,Adam Kitain,Team Mile High,92.0,154.5,62.5,0,1,LOSS,False,NONE,2020
+3,Trond Liu,Mile high Hairline,Scott Geary,Kip Schwartz,115.5,108.0,7.5,1,0,WIN,False,NONE,2020
+3,Scott Geary,Kip Schwartz,Trond Liu,Mile high Hairline,108.0,115.5,7.5,0,1,LOSS,False,NONE,2020
+3,Jake Wetherall,Team Dildo Gaggins,Adam Swietek,EZ Sweezy,124.5,94.0,30.5,1,0,WIN,False,NONE,2020
+3,Adam Swietek,EZ Sweezy,Jake Wetherall,Team Dildo Gaggins,94.0,124.5,30.5,0,1,LOSS,False,NONE,2020
+3,Matthew Coonrod,Coon Daddy,Athan Cheokas,Artful Dodger,129.0,105.0,24.0,1,0,WIN,False,NONE,2020
+3,Athan Cheokas,Artful Dodger,Matthew Coonrod,Coon Daddy,105.0,129.0,24.0,0,1,LOSS,False,NONE,2020
+3,Alex Han,Team Han,Zack Havanec,Geico Trap,95.0,129.5,34.5,0,1,LOSS,False,NONE,2020
+3,Zack Havanec,Geico Trap,Alex Han,Team Han,129.5,95.0,34.5,1,0,WIN,False,NONE,2020
+3,Bhavuk Tandon,Main st vs Wall st,Adam Kitain,Team Mile High,138.0,101.5,36.5,1,0,WIN,False,NONE,2020
+3,Adam Kitain,Team Mile High,Bhavuk Tandon,Main st vs Wall st,101.5,138.0,36.5,0,1,LOSS,False,NONE,2020
+4,Adam Kitain,Team Mile High,Athan Cheokas,Artful Dodger,112.5,102.5,10.0,1,0,WIN,False,NONE,2020
+4,Athan Cheokas,Artful Dodger,Adam Kitain,Team Mile High,102.5,112.5,10.0,0,1,LOSS,False,NONE,2020
+4,Alex Han,Team Han,Scott Geary,Kip Schwartz,92.5,127.0,34.5,0,1,LOSS,False,NONE,2020
+4,Scott Geary,Kip Schwartz,Alex Han,Team Han,127.0,92.5,34.5,1,0,WIN,False,NONE,2020
+4,Trond Liu,Mile high Hairline,Adam Swietek,EZ Sweezy,95.5,103.5,8.0,0,1,LOSS,False,NONE,2020
+4,Adam Swietek,EZ Sweezy,Trond Liu,Mile high Hairline,103.5,95.5,8.0,1,0,WIN,False,NONE,2020
+4,Zack Havanec,Geico Trap,Matthew Coonrod,Coon Daddy,97.0,123.0,26.0,0,1,LOSS,False,NONE,2020
+4,Matthew Coonrod,Coon Daddy,Zack Havanec,Geico Trap,123.0,97.0,26.0,1,0,WIN,False,NONE,2020
+4,Bhavuk Tandon,Main st vs Wall st,Jake Wetherall,Team Dildo Gaggins,162.5,86.5,76.0,1,0,WIN,False,NONE,2020
+4,Jake Wetherall,Team Dildo Gaggins,Bhavuk Tandon,Main st vs Wall st,86.5,162.5,76.0,0,1,LOSS,False,NONE,2020
+5,Zack Havanec,Geico Trap,Adam Kitain,Team Mile High,112.5,125.0,12.5,0,1,LOSS,False,NONE,2020
+5,Adam Kitain,Team Mile High,Zack Havanec,Geico Trap,125.0,112.5,12.5,1,0,WIN,False,NONE,2020
+5,Adam Swietek,EZ Sweezy,Scott Geary,Kip Schwartz,161.5,104.0,57.5,1,0,WIN,False,NONE,2020
+5,Scott Geary,Kip Schwartz,Adam Swietek,EZ Sweezy,104.0,161.5,57.5,0,1,LOSS,False,NONE,2020
+5,Athan Cheokas,Artful Dodger,Jake Wetherall,Team Dildo Gaggins,83.0,128.5,45.5,0,1,LOSS,False,NONE,2020
+5,Jake Wetherall,Team Dildo Gaggins,Athan Cheokas,Artful Dodger,128.5,83.0,45.5,1,0,WIN,False,NONE,2020
+5,Alex Han,Team Han,Matthew Coonrod,Coon Daddy,71.0,110.5,39.5,0,1,LOSS,False,NONE,2020
+5,Matthew Coonrod,Coon Daddy,Alex Han,Team Han,110.5,71.0,39.5,1,0,WIN,False,NONE,2020
+5,Bhavuk Tandon,Main st vs Wall st,Trond Liu,Mile high Hairline,88.5,90.5,2.0,0,1,LOSS,False,NONE,2020
+5,Trond Liu,Mile high Hairline,Bhavuk Tandon,Main st vs Wall st,90.5,88.5,2.0,1,0,WIN,False,NONE,2020
+6,Zack Havanec,Geico Trap,Adam Swietek,EZ Sweezy,66.5,106.5,40.0,0,1,LOSS,False,NONE,2020
+6,Adam Swietek,EZ Sweezy,Zack Havanec,Geico Trap,106.5,66.5,40.0,1,0,WIN,False,NONE,2020
+6,Scott Geary,Kip Schwartz,Matthew Coonrod,Coon Daddy,109.0,103.5,5.5,1,0,WIN,False,NONE,2020
+6,Matthew Coonrod,Coon Daddy,Scott Geary,Kip Schwartz,103.5,109.0,5.5,0,1,LOSS,False,NONE,2020
+6,Athan Cheokas,Artful Dodger,Bhavuk Tandon,Main st vs Wall st,119.0,113.0,6.0,1,0,WIN,False,NONE,2020
+6,Bhavuk Tandon,Main st vs Wall st,Athan Cheokas,Artful Dodger,113.0,119.0,6.0,0,1,LOSS,False,NONE,2020
+6,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,103.5,100.5,3.0,1,0,WIN,False,NONE,2020
+6,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,100.5,103.5,3.0,0,1,LOSS,False,NONE,2020
+6,Trond Liu,Mile high Hairline,Adam Kitain,Team Mile High,77.0,97.5,20.5,0,1,LOSS,False,NONE,2020
+6,Adam Kitain,Team Mile High,Trond Liu,Mile high Hairline,97.5,77.0,20.5,1,0,WIN,False,NONE,2020
+7,Adam Swietek,EZ Sweezy,Alex Han,Team Han,95.0,116.5,21.5,0,1,LOSS,False,NONE,2020
+7,Alex Han,Team Han,Adam Swietek,EZ Sweezy,116.5,95.0,21.5,1,0,WIN,False,NONE,2020
+7,Scott Geary,Kip Schwartz,Zack Havanec,Geico Trap,101.0,89.0,12.0,1,0,WIN,False,NONE,2020
+7,Zack Havanec,Geico Trap,Scott Geary,Kip Schwartz,89.0,101.0,12.0,0,1,LOSS,False,NONE,2020
+7,Bhavuk Tandon,Main st vs Wall st,Matthew Coonrod,Coon Daddy,128.0,126.5,1.5,1,0,WIN,False,NONE,2020
+7,Matthew Coonrod,Coon Daddy,Bhavuk Tandon,Main st vs Wall st,126.5,128.0,1.5,0,1,LOSS,False,NONE,2020
+7,Jake Wetherall,Team Dildo Gaggins,Adam Kitain,Team Mile High,93.5,81.5,12.0,1,0,WIN,False,NONE,2020
+7,Adam Kitain,Team Mile High,Jake Wetherall,Team Dildo Gaggins,81.5,93.5,12.0,0,1,LOSS,False,NONE,2020
+7,Athan Cheokas,Artful Dodger,Trond Liu,Mile high Hairline,115.5,111.0,4.5,1,0,WIN,False,NONE,2020
+7,Trond Liu,Mile high Hairline,Athan Cheokas,Artful Dodger,111.0,115.5,4.5,0,1,LOSS,False,NONE,2020
+8,Adam Kitain,Team Mile High,Adam Swietek,EZ Sweezy,104.5,90.0,14.5,1,0,WIN,False,NONE,2020
+8,Adam Swietek,EZ Sweezy,Adam Kitain,Team Mile High,90.0,104.5,14.5,0,1,LOSS,False,NONE,2020
+8,Scott Geary,Kip Schwartz,Matthew Coonrod,Coon Daddy,79.0,96.5,17.5,0,1,LOSS,False,NONE,2020
+8,Matthew Coonrod,Coon Daddy,Scott Geary,Kip Schwartz,96.5,79.0,17.5,1,0,WIN,False,NONE,2020
+8,Jake Wetherall,Team Dildo Gaggins,Zack Havanec,Geico Trap,65.0,136.5,71.5,0,1,LOSS,False,NONE,2020
+8,Zack Havanec,Geico Trap,Jake Wetherall,Team Dildo Gaggins,136.5,65.0,71.5,1,0,WIN,False,NONE,2020
+8,Athan Cheokas,Artful Dodger,Bhavuk Tandon,Main st vs Wall st,85.0,99.5,14.5,0,1,LOSS,False,NONE,2020
+8,Bhavuk Tandon,Main st vs Wall st,Athan Cheokas,Artful Dodger,99.5,85.0,14.5,1,0,WIN,False,NONE,2020
+8,Trond Liu,Mile high Hairline,Alex Han,Team Han,89.0,122.5,33.5,0,1,LOSS,False,NONE,2020
+8,Alex Han,Team Han,Trond Liu,Mile high Hairline,122.5,89.0,33.5,1,0,WIN,False,NONE,2020
+9,Zack Havanec,Geico Trap,Adam Swietek,EZ Sweezy,140.0,82.5,57.5,1,0,WIN,False,NONE,2020
+9,Adam Swietek,EZ Sweezy,Zack Havanec,Geico Trap,82.5,140.0,57.5,0,1,LOSS,False,NONE,2020
+9,Trond Liu,Mile high Hairline,Adam Kitain,Team Mile High,87.0,81.5,5.5,1,0,WIN,False,NONE,2020
+9,Adam Kitain,Team Mile High,Trond Liu,Mile high Hairline,81.5,87.0,5.5,0,1,LOSS,False,NONE,2020
+9,Alex Han,Team Han,Bhavuk Tandon,Main st vs Wall st,114.5,82.0,32.5,1,0,WIN,False,NONE,2020
+9,Bhavuk Tandon,Main st vs Wall st,Alex Han,Team Han,82.0,114.5,32.5,0,1,LOSS,False,NONE,2020
+9,Jake Wetherall,Team Dildo Gaggins,Matthew Coonrod,Coon Daddy,108.0,81.0,27.0,1,0,WIN,False,NONE,2020
+9,Matthew Coonrod,Coon Daddy,Jake Wetherall,Team Dildo Gaggins,81.0,108.0,27.0,0,1,LOSS,False,NONE,2020
+9,Scott Geary,Kip Schwartz,Athan Cheokas,Artful Dodger,111.0,83.0,28.0,1,0,WIN,False,NONE,2020
+9,Athan Cheokas,Artful Dodger,Scott Geary,Kip Schwartz,83.0,111.0,28.0,0,1,LOSS,False,NONE,2020
+10,Adam Swietek,EZ Sweezy,Athan Cheokas,Artful Dodger,85.0,81.0,4.0,1,0,WIN,False,NONE,2020
+10,Athan Cheokas,Artful Dodger,Adam Swietek,EZ Sweezy,81.0,85.0,4.0,0,1,LOSS,False,NONE,2020
+10,Matthew Coonrod,Coon Daddy,Trond Liu,Mile high Hairline,93.5,85.5,8.0,1,0,WIN,False,NONE,2020
+10,Trond Liu,Mile high Hairline,Matthew Coonrod,Coon Daddy,85.5,93.5,8.0,0,1,LOSS,False,NONE,2020
+10,Zack Havanec,Geico Trap,Bhavuk Tandon,Main st vs Wall st,90.0,76.5,13.5,1,0,WIN,False,NONE,2020
+10,Bhavuk Tandon,Main st vs Wall st,Zack Havanec,Geico Trap,76.5,90.0,13.5,0,1,LOSS,False,NONE,2020
+10,Adam Kitain,Team Mile High,Scott Geary,Kip Schwartz,111.5,104.5,7.0,1,0,WIN,False,NONE,2020
+10,Scott Geary,Kip Schwartz,Adam Kitain,Team Mile High,104.5,111.5,7.0,0,1,LOSS,False,NONE,2020
+10,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,100.0,70.5,29.5,1,0,WIN,False,NONE,2020
+10,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,70.5,100.0,29.5,0,1,LOSS,False,NONE,2020
+11,Adam Kitain,Team Mile High,,,201.0,0.0,201.0,0,0,NO CONTEST,True,WINNERS_BRACKET,2020
+11,Bhavuk Tandon,Main st vs Wall st,Zack Havanec,Geico Trap,216.0,254.0,38.0,0,1,LOSS,True,WINNERS_BRACKET,2020
+11,Zack Havanec,Geico Trap,Bhavuk Tandon,Main st vs Wall st,254.0,216.0,38.0,1,0,WIN,True,WINNERS_BRACKET,2020
+11,Trond Liu,Mile high Hairline,Jake Wetherall,Team Dildo Gaggins,165.0,243.5,78.5,0,1,LOSS,True,WINNERS_BRACKET,2020
+11,Jake Wetherall,Team Dildo Gaggins,Trond Liu,Mile high Hairline,243.5,165.0,78.5,1,0,WIN,True,WINNERS_BRACKET,2020
+11,Scott Geary,Kip Schwartz,,,186.5,0.0,186.5,0,0,NO CONTEST,True,WINNERS_BRACKET,2020
+11,Adam Swietek,EZ Sweezy,Matthew Coonrod,Coon Daddy,178.0,214.0,36.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2020
+11,Matthew Coonrod,Coon Daddy,Adam Swietek,EZ Sweezy,214.0,178.0,36.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2020
+11,Alex Han,Team Han,Athan Cheokas,Artful Dodger,212.0,176.0,36.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2020
+11,Athan Cheokas,Artful Dodger,Alex Han,Team Han,176.0,212.0,36.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2020
+12,Adam Kitain,Team Mile High,Zack Havanec,Geico Trap,220.5,223.5,3.0,0,1,LOSS,True,WINNERS_BRACKET,2020
+12,Zack Havanec,Geico Trap,Adam Kitain,Team Mile High,223.5,220.5,3.0,1,0,WIN,True,WINNERS_BRACKET,2020
+12,Scott Geary,Kip Schwartz,Jake Wetherall,Team Dildo Gaggins,180.5,231.5,51.0,0,1,LOSS,True,WINNERS_BRACKET,2020
+12,Jake Wetherall,Team Dildo Gaggins,Scott Geary,Kip Schwartz,231.5,180.5,51.0,1,0,WIN,True,WINNERS_BRACKET,2020
+12,Bhavuk Tandon,Main st vs Wall st,Trond Liu,Mile high Hairline,142.5,168.5,26.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2020
+12,Trond Liu,Mile high Hairline,Bhavuk Tandon,Main st vs Wall st,168.5,142.5,26.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2020
+12,Matthew Coonrod,Coon Daddy,Alex Han,Team Han,243.5,221.0,22.5,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2020
+12,Alex Han,Team Han,Matthew Coonrod,Coon Daddy,221.0,243.5,22.5,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2020
+12,Adam Swietek,EZ Sweezy,Athan Cheokas,Artful Dodger,220.0,232.0,12.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2020
+12,Athan Cheokas,Artful Dodger,Adam Swietek,EZ Sweezy,232.0,220.0,12.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2020
+13,Zack Havanec,Geico Trap,Jake Wetherall,Team Dildo Gaggins,233.5,204.0,29.5,1,0,WIN,True,WINNERS_BRACKET,2020
+13,Jake Wetherall,Team Dildo Gaggins,Zack Havanec,Geico Trap,204.0,233.5,29.5,0,1,LOSS,True,WINNERS_BRACKET,2020
+13,Adam Kitain,Team Mile High,Scott Geary,Kip Schwartz,269.5,196.5,73.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2020
+13,Scott Geary,Kip Schwartz,Adam Kitain,Team Mile High,196.5,269.5,73.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2020
+13,Bhavuk Tandon,Main st vs Wall st,Trond Liu,Mile high Hairline,149.0,218.0,69.0,0,1,LOSS,True,WINNERS_CONSOLATION_LADDER,2020
+13,Trond Liu,Mile high Hairline,Bhavuk Tandon,Main st vs Wall st,218.0,149.0,69.0,1,0,WIN,True,WINNERS_CONSOLATION_LADDER,2020
+13,Matthew Coonrod,Coon Daddy,Athan Cheokas,Artful Dodger,240.5,140.5,100.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2020
+13,Athan Cheokas,Artful Dodger,Matthew Coonrod,Coon Daddy,140.5,240.5,100.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2020
+13,Adam Swietek,EZ Sweezy,Alex Han,Team Han,136.0,244.0,108.0,0,1,LOSS,True,LOSERS_CONSOLATION_LADDER,2020
+13,Alex Han,Team Han,Adam Swietek,EZ Sweezy,244.0,136.0,108.0,1,0,WIN,True,LOSERS_CONSOLATION_LADDER,2020

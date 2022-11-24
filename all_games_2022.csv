@@ -1,0 +1,131 @@
+period,team,team_name,opponent,opponent_name,team_score,opponent_score,differential,win,loss,result,is_playoff,matchup_type,year
+1,Alex Han,Team Han,Athan Cheokas,Artful Dodger,155.0,139.5,15.5,1,0,WIN,False,NONE,2022
+1,Athan Cheokas,Artful Dodger,Alex Han,Team Han,139.5,155.0,15.5,0,1,LOSS,False,NONE,2022
+1,Trond Liu,Foxconn's Nets Installer,Scott Geary,Kip Schwartz,74.5,135.5,61.0,0,1,LOSS,False,NONE,2022
+1,Scott Geary,Kip Schwartz,Trond Liu,Foxconn's Nets Installer,135.5,74.5,61.0,1,0,WIN,False,NONE,2022
+1,Adam Swietek,EZ Sweezy,Adam Kitain,Team Miles High,85.5,107.0,21.5,0,1,LOSS,False,NONE,2022
+1,Adam Kitain,Team Miles High,Adam Swietek,EZ Sweezy,107.0,85.5,21.5,1,0,WIN,False,NONE,2022
+1,Zack Havanec,Geico Trap,Jake Wetherall,Team Dildo Gaggins,90.5,112.0,21.5,0,1,LOSS,False,NONE,2022
+1,Jake Wetherall,Team Dildo Gaggins,Zack Havanec,Geico Trap,112.0,90.5,21.5,1,0,WIN,False,NONE,2022
+1,Matthew Coonrod,Coon Daddy,Bhavuk Tandon,TheBetter brown brother,90.5,73.0,17.5,1,0,WIN,False,NONE,2022
+1,Bhavuk Tandon,TheBetter brown brother,Matthew Coonrod,Coon Daddy,73.0,90.5,17.5,0,1,LOSS,False,NONE,2022
+2,Jake Wetherall,Team Dildo Gaggins,Athan Cheokas,Artful Dodger,146.0,118.0,28.0,1,0,WIN,False,NONE,2022
+2,Athan Cheokas,Artful Dodger,Jake Wetherall,Team Dildo Gaggins,118.0,146.0,28.0,0,1,LOSS,False,NONE,2022
+2,Adam Kitain,Team Miles High,Matthew Coonrod,Coon Daddy,88.5,75.0,13.5,1,0,WIN,False,NONE,2022
+2,Matthew Coonrod,Coon Daddy,Adam Kitain,Team Miles High,75.0,88.5,13.5,0,1,LOSS,False,NONE,2022
+2,Scott Geary,Kip Schwartz,Alex Han,Team Han,118.5,135.0,16.5,0,1,LOSS,False,NONE,2022
+2,Alex Han,Team Han,Scott Geary,Kip Schwartz,135.0,118.5,16.5,1,0,WIN,False,NONE,2022
+2,Zack Havanec,Geico Trap,Bhavuk Tandon,TheBetter brown brother,131.5,91.5,40.0,1,0,WIN,False,NONE,2022
+2,Bhavuk Tandon,TheBetter brown brother,Zack Havanec,Geico Trap,91.5,131.5,40.0,0,1,LOSS,False,NONE,2022
+2,Adam Swietek,EZ Sweezy,Trond Liu,Foxconn's Nets Installer,130.0,108.5,21.5,1,0,WIN,False,NONE,2022
+2,Trond Liu,Foxconn's Nets Installer,Adam Swietek,EZ Sweezy,108.5,130.0,21.5,0,1,LOSS,False,NONE,2022
+3,Scott Geary,Kip Schwartz,Athan Cheokas,Artful Dodger,77.0,86.0,9.0,0,1,LOSS,False,NONE,2022
+3,Athan Cheokas,Artful Dodger,Scott Geary,Kip Schwartz,86.0,77.0,9.0,1,0,WIN,False,NONE,2022
+3,Adam Kitain,Team Miles High,Bhavuk Tandon,TheBetter brown brother,102.5,108.5,6.0,0,1,LOSS,False,NONE,2022
+3,Bhavuk Tandon,TheBetter brown brother,Adam Kitain,Team Miles High,108.5,102.5,6.0,1,0,WIN,False,NONE,2022
+3,Matthew Coonrod,Coon Daddy,Alex Han,Team Han,79.5,96.5,17.0,0,1,LOSS,False,NONE,2022
+3,Alex Han,Team Han,Matthew Coonrod,Coon Daddy,96.5,79.5,17.0,1,0,WIN,False,NONE,2022
+3,Adam Swietek,EZ Sweezy,Zack Havanec,Geico Trap,98.0,105.5,7.5,0,1,LOSS,False,NONE,2022
+3,Zack Havanec,Geico Trap,Adam Swietek,EZ Sweezy,105.5,98.0,7.5,1,0,WIN,False,NONE,2022
+3,Trond Liu,Foxconn's Nets Installer,Jake Wetherall,Team Dildo Gaggins,98.5,87.0,11.5,1,0,WIN,False,NONE,2022
+3,Jake Wetherall,Team Dildo Gaggins,Trond Liu,Foxconn's Nets Installer,87.0,98.5,11.5,0,1,LOSS,False,NONE,2022
+4,Trond Liu,Foxconn's Nets Installer,Athan Cheokas,Artful Dodger,104.5,61.0,43.5,1,0,WIN,False,NONE,2022
+4,Athan Cheokas,Artful Dodger,Trond Liu,Foxconn's Nets Installer,61.0,104.5,43.5,0,1,LOSS,False,NONE,2022
+4,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,94.0,120.5,26.5,0,1,LOSS,False,NONE,2022
+4,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,120.5,94.0,26.5,1,0,WIN,False,NONE,2022
+4,Adam Swietek,EZ Sweezy,Bhavuk Tandon,TheBetter brown brother,150.0,128.5,21.5,1,0,WIN,False,NONE,2022
+4,Bhavuk Tandon,TheBetter brown brother,Adam Swietek,EZ Sweezy,128.5,150.0,21.5,0,1,LOSS,False,NONE,2022
+4,Zack Havanec,Geico Trap,Matthew Coonrod,Coon Daddy,92.5,114.5,22.0,0,1,LOSS,False,NONE,2022
+4,Matthew Coonrod,Coon Daddy,Zack Havanec,Geico Trap,114.5,92.5,22.0,1,0,WIN,False,NONE,2022
+4,Adam Kitain,Team Miles High,Scott Geary,Kip Schwartz,88.5,96.5,8.0,0,1,LOSS,False,NONE,2022
+4,Scott Geary,Kip Schwartz,Adam Kitain,Team Miles High,96.5,88.5,8.0,1,0,WIN,False,NONE,2022
+5,Scott Geary,Kip Schwartz,Jake Wetherall,Team Dildo Gaggins,108.5,113.5,5.0,0,1,LOSS,False,NONE,2022
+5,Jake Wetherall,Team Dildo Gaggins,Scott Geary,Kip Schwartz,113.5,108.5,5.0,1,0,WIN,False,NONE,2022
+5,Bhavuk Tandon,TheBetter brown brother,Athan Cheokas,Artful Dodger,113.5,104.0,9.5,1,0,WIN,False,NONE,2022
+5,Athan Cheokas,Artful Dodger,Bhavuk Tandon,TheBetter brown brother,104.0,113.5,9.5,0,1,LOSS,False,NONE,2022
+5,Trond Liu,Foxconn's Nets Installer,Alex Han,Team Han,123.0,144.5,21.5,0,1,LOSS,False,NONE,2022
+5,Alex Han,Team Han,Trond Liu,Foxconn's Nets Installer,144.5,123.0,21.5,1,0,WIN,False,NONE,2022
+5,Adam Kitain,Team Miles High,Zack Havanec,Geico Trap,76.5,77.0,0.5,0,1,LOSS,False,NONE,2022
+5,Zack Havanec,Geico Trap,Adam Kitain,Team Miles High,77.0,76.5,0.5,1,0,WIN,False,NONE,2022
+5,Adam Swietek,EZ Sweezy,Matthew Coonrod,Coon Daddy,114.0,88.5,25.5,1,0,WIN,False,NONE,2022
+5,Matthew Coonrod,Coon Daddy,Adam Swietek,EZ Sweezy,88.5,114.0,25.5,0,1,LOSS,False,NONE,2022
+6,Zack Havanec,Geico Trap,Alex Han,Team Han,107.0,106.5,0.5,1,0,WIN,False,NONE,2022
+6,Alex Han,Team Han,Zack Havanec,Geico Trap,106.5,107.0,0.5,0,1,LOSS,False,NONE,2022
+6,Bhavuk Tandon,TheBetter brown brother,Trond Liu,Foxconn's Nets Installer,83.5,87.5,4.0,0,1,LOSS,False,NONE,2022
+6,Trond Liu,Foxconn's Nets Installer,Bhavuk Tandon,TheBetter brown brother,87.5,83.5,4.0,1,0,WIN,False,NONE,2022
+6,Adam Swietek,EZ Sweezy,Scott Geary,Kip Schwartz,76.5,68.0,8.5,1,0,WIN,False,NONE,2022
+6,Scott Geary,Kip Schwartz,Adam Swietek,EZ Sweezy,68.0,76.5,8.5,0,1,LOSS,False,NONE,2022
+6,Matthew Coonrod,Coon Daddy,Athan Cheokas,Artful Dodger,74.0,105.5,31.5,0,1,LOSS,False,NONE,2022
+6,Athan Cheokas,Artful Dodger,Matthew Coonrod,Coon Daddy,105.5,74.0,31.5,1,0,WIN,False,NONE,2022
+6,Adam Kitain,Team Miles High,Jake Wetherall,Team Dildo Gaggins,131.5,95.0,36.5,1,0,WIN,False,NONE,2022
+6,Jake Wetherall,Team Dildo Gaggins,Adam Kitain,Team Miles High,95.0,131.5,36.5,0,1,LOSS,False,NONE,2022
+7,Adam Kitain,Team Miles High,Alex Han,Team Han,122.0,88.5,33.5,1,0,WIN,False,NONE,2022
+7,Alex Han,Team Han,Adam Kitain,Team Miles High,88.5,122.0,33.5,0,1,LOSS,False,NONE,2022
+7,Matthew Coonrod,Coon Daddy,Trond Liu,Foxconn's Nets Installer,64.5,112.5,48.0,0,1,LOSS,False,NONE,2022
+7,Trond Liu,Foxconn's Nets Installer,Matthew Coonrod,Coon Daddy,112.5,64.5,48.0,1,0,WIN,False,NONE,2022
+7,Zack Havanec,Geico Trap,Athan Cheokas,Artful Dodger,89.5,77.5,12.0,1,0,WIN,False,NONE,2022
+7,Athan Cheokas,Artful Dodger,Zack Havanec,Geico Trap,77.5,89.5,12.0,0,1,LOSS,False,NONE,2022
+7,Bhavuk Tandon,TheBetter brown brother,Scott Geary,Kip Schwartz,109.5,88.0,21.5,1,0,WIN,False,NONE,2022
+7,Scott Geary,Kip Schwartz,Bhavuk Tandon,TheBetter brown brother,88.0,109.5,21.5,0,1,LOSS,False,NONE,2022
+7,Adam Swietek,EZ Sweezy,Jake Wetherall,Team Dildo Gaggins,110.5,117.0,6.5,0,1,LOSS,False,NONE,2022
+7,Jake Wetherall,Team Dildo Gaggins,Adam Swietek,EZ Sweezy,117.0,110.5,6.5,1,0,WIN,False,NONE,2022
+8,Adam Swietek,EZ Sweezy,Alex Han,Team Han,97.5,104.0,6.5,0,1,LOSS,False,NONE,2022
+8,Alex Han,Team Han,Adam Swietek,EZ Sweezy,104.0,97.5,6.5,1,0,WIN,False,NONE,2022
+8,Bhavuk Tandon,TheBetter brown brother,Jake Wetherall,Team Dildo Gaggins,123.5,138.5,15.0,0,1,LOSS,False,NONE,2022
+8,Jake Wetherall,Team Dildo Gaggins,Bhavuk Tandon,TheBetter brown brother,138.5,123.5,15.0,1,0,WIN,False,NONE,2022
+8,Adam Kitain,Team Miles High,Athan Cheokas,Artful Dodger,98.5,94.0,4.5,1,0,WIN,False,NONE,2022
+8,Athan Cheokas,Artful Dodger,Adam Kitain,Team Miles High,94.0,98.5,4.5,0,1,LOSS,False,NONE,2022
+8,Matthew Coonrod,Coon Daddy,Scott Geary,Kip Schwartz,112.0,141.0,29.0,0,1,LOSS,False,NONE,2022
+8,Scott Geary,Kip Schwartz,Matthew Coonrod,Coon Daddy,141.0,112.0,29.0,1,0,WIN,False,NONE,2022
+8,Zack Havanec,Geico Trap,Trond Liu,Foxconn's Nets Installer,92.5,137.0,44.5,0,1,LOSS,False,NONE,2022
+8,Trond Liu,Foxconn's Nets Installer,Zack Havanec,Geico Trap,137.0,92.5,44.5,1,0,WIN,False,NONE,2022
+9,Athan Cheokas,Artful Dodger,Alex Han,Team Han,91.0,130.0,39.0,0,1,LOSS,False,NONE,2022
+9,Alex Han,Team Han,Athan Cheokas,Artful Dodger,130.0,91.0,39.0,1,0,WIN,False,NONE,2022
+9,Matthew Coonrod,Coon Daddy,Jake Wetherall,Team Dildo Gaggins,76.5,92.5,16.0,0,1,LOSS,False,NONE,2022
+9,Jake Wetherall,Team Dildo Gaggins,Matthew Coonrod,Coon Daddy,92.5,76.5,16.0,1,0,WIN,False,NONE,2022
+9,Bhavuk Tandon,TheBetter brown brother,Zack Havanec,Geico Trap,92.5,128.5,36.0,0,1,LOSS,False,NONE,2022
+9,Zack Havanec,Geico Trap,Bhavuk Tandon,TheBetter brown brother,128.5,92.5,36.0,1,0,WIN,False,NONE,2022
+9,Adam Kitain,Team Miles High,Adam Swietek,EZ Sweezy,99.5,115.5,16.0,0,1,LOSS,False,NONE,2022
+9,Adam Swietek,EZ Sweezy,Adam Kitain,Team Miles High,115.5,99.5,16.0,1,0,WIN,False,NONE,2022
+9,Scott Geary,Kip Schwartz,Trond Liu,Foxconn's Nets Installer,98.5,98.5,0.0,0,1,LOSS,False,NONE,2022
+9,Trond Liu,Foxconn's Nets Installer,Scott Geary,Kip Schwartz,98.5,98.5,0.0,1,0,WIN,False,NONE,2022
+10,Alex Han,Team Han,Scott Geary,Kip Schwartz,101.0,129.5,28.5,0,1,LOSS,False,NONE,2022
+10,Scott Geary,Kip Schwartz,Alex Han,Team Han,129.5,101.0,28.5,1,0,WIN,False,NONE,2022
+10,Adam Kitain,Team Miles High,Trond Liu,Foxconn's Nets Installer,87.0,85.5,1.5,1,0,WIN,False,NONE,2022
+10,Trond Liu,Foxconn's Nets Installer,Adam Kitain,Team Miles High,85.5,87.0,1.5,0,1,LOSS,False,NONE,2022
+10,Bhavuk Tandon,TheBetter brown brother,Matthew Coonrod,Coon Daddy,74.5,86.5,12.0,0,1,LOSS,False,NONE,2022
+10,Matthew Coonrod,Coon Daddy,Bhavuk Tandon,TheBetter brown brother,86.5,74.5,12.0,1,0,WIN,False,NONE,2022
+10,Zack Havanec,Geico Trap,Adam Swietek,EZ Sweezy,84.5,60.0,24.5,1,0,WIN,False,NONE,2022
+10,Adam Swietek,EZ Sweezy,Zack Havanec,Geico Trap,60.0,84.5,24.5,0,1,LOSS,False,NONE,2022
+10,Athan Cheokas,Artful Dodger,Jake Wetherall,Team Dildo Gaggins,131.0,109.0,22.0,1,0,WIN,False,NONE,2022
+10,Jake Wetherall,Team Dildo Gaggins,Athan Cheokas,Artful Dodger,109.0,131.0,22.0,0,1,LOSS,False,NONE,2022
+11,Zack Havanec,Geico Trap,Adam Kitain,Team Miles High,137.0,48.0,89.0,1,0,WIN,False,NONE,2022
+11,Adam Kitain,Team Miles High,Zack Havanec,Geico Trap,48.0,137.0,89.0,0,1,LOSS,False,NONE,2022
+11,Athan Cheokas,Artful Dodger,Scott Geary,Kip Schwartz,134.5,83.0,51.5,1,0,WIN,False,NONE,2022
+11,Scott Geary,Kip Schwartz,Athan Cheokas,Artful Dodger,83.0,134.5,51.5,0,1,LOSS,False,NONE,2022
+11,Bhavuk Tandon,TheBetter brown brother,Alex Han,Team Han,111.5,102.5,9.0,1,0,WIN,False,NONE,2022
+11,Alex Han,Team Han,Bhavuk Tandon,TheBetter brown brother,102.5,111.5,9.0,0,1,LOSS,False,NONE,2022
+11,Jake Wetherall,Team Dildo Gaggins,Trond Liu,Foxconn's Nets Installer,75.0,61.0,14.0,1,0,WIN,False,NONE,2022
+11,Trond Liu,Foxconn's Nets Installer,Jake Wetherall,Team Dildo Gaggins,61.0,75.0,14.0,0,1,LOSS,False,NONE,2022
+11,Matthew Coonrod,Coon Daddy,Adam Swietek,EZ Sweezy,107.5,110.5,3.0,0,1,LOSS,False,NONE,2022
+11,Adam Swietek,EZ Sweezy,Matthew Coonrod,Coon Daddy,110.5,107.5,3.0,1,0,WIN,False,NONE,2022
+12,Zack Havanec,Geico Trap,Scott Geary,Kip Schwartz,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+12,Scott Geary,Kip Schwartz,Zack Havanec,Geico Trap,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+12,Matthew Coonrod,Coon Daddy,Adam Kitain,Team Miles High,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+12,Adam Kitain,Team Miles High,Matthew Coonrod,Coon Daddy,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+12,Athan Cheokas,Artful Dodger,Trond Liu,Foxconn's Nets Installer,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+12,Trond Liu,Foxconn's Nets Installer,Athan Cheokas,Artful Dodger,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+12,Bhavuk Tandon,TheBetter brown brother,Adam Swietek,EZ Sweezy,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+12,Adam Swietek,EZ Sweezy,Bhavuk Tandon,TheBetter brown brother,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+12,Alex Han,Team Han,Jake Wetherall,Team Dildo Gaggins,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+12,Jake Wetherall,Team Dildo Gaggins,Alex Han,Team Han,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+13,Adam Swietek,EZ Sweezy,Athan Cheokas,Artful Dodger,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+13,Athan Cheokas,Artful Dodger,Adam Swietek,EZ Sweezy,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+13,Matthew Coonrod,Coon Daddy,Zack Havanec,Geico Trap,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+13,Zack Havanec,Geico Trap,Matthew Coonrod,Coon Daddy,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+13,Alex Han,Team Han,Trond Liu,Foxconn's Nets Installer,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+13,Trond Liu,Foxconn's Nets Installer,Alex Han,Team Han,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+13,Jake Wetherall,Team Dildo Gaggins,Scott Geary,Kip Schwartz,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+13,Scott Geary,Kip Schwartz,Jake Wetherall,Team Dildo Gaggins,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+13,Bhavuk Tandon,TheBetter brown brother,Adam Kitain,Team Miles High,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
+13,Adam Kitain,Team Miles High,Bhavuk Tandon,TheBetter brown brother,0.0,0.0,0.0,0,0,NO CONTEST,False,NONE,2022
